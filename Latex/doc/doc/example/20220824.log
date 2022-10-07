@@ -1,0 +1,1090 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.11)  27 AUG 2022 19:51
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**20220824
+(./20220824.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (d:/texlive/texmf-dist/tex/latex/ctex/ctexart.cls (d:/texlive/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+File: ctexbackend.cfg 2021/12/12 v2.5.8 Backend configuration file (CTEX)
+) (d:/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+ (d:/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count185
+\l__pdf_internal_box=\box50
+))
+Document Class: ctexart 2021/12/12 v2.5.8 Chinese adapter for class article (CTEX)
+(d:/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+) (d:/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+) (d:/texlive/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2021/12/12 v2.5.8 Document and package hooks (CTEX)
+) (d:/texlive/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2021/12/12 v2.5.8 Patching commands (CTEX)
+) (d:/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (d:/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count186
+\l__ctex_tmp_box=\box51
+\l__ctex_tmp_dim=\dimen138
+\g__ctex_section_depth_int=\count187
+\g__ctex_font_size_int=\count188
+ (d:/texlive/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2021/12/12 v2.5.8 Option configuration file (CTEX)
+) (d:/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(d:/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+) (d:/texlive/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2021/12/12 v2.5.8 (pdf)LaTeX adapter (CTEX)
+ (d:/texlive/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2021/10/16 4.8.5
+ (d:/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ (d:/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)) (d:/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (d:/texlive/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2021/10/16 4.8.5
+ (d:/texlive/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2021/10/16 4.8.5
+) (d:/texlive/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2021/10/16 4.8.5
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+\CJK@indent=\box52
+) (d:/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)) (d:/texlive/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count197
+\CJKpunct@cntb=\count198
+\CJKpunct@cntc=\count199
+\CJKpunct@cntd=\count266
+\CJKpunct@cnte=\count267
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+ (d:/texlive/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa)) (d:/texlive/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2021/10/16 3.8.0
+) (d:/texlive/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2021/12/12 v2.5.8 Space info for CJKpunct (CTEX)
+)
+\ccwd=\dimen140
+\l__ctex_ccglue_skip=\skip49
+)
+\l__ctex_ziju_dim=\dimen141
+ (d:/texlive/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count268
+\l__zhnum_byte_min_int=\count269
+\l__zhnum_byte_max_int=\count270
+ (d:/texlive/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip50
+ (d:/texlive/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
+File: ctex-scheme-chinese-article.def 2021/12/12 v2.5.8 Chinese scheme for article (CTEX)
+ (d:/texlive/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2021/12/12 v2.5.8 Caption with encoding UTF-8 (CTEX)
+)) (d:/texlive/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2021/12/12 v2.5.8 c5size option (CTEX)
+) (d:/texlive/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2021/12/12 v2.5.8 Windows fonts definition (CTEX)
+)) (d:/texlive/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2021/12/12 v2.5.8 Configuration file (CTEX)
+) (d:/texlive/texmf-dist/tex/latex/listings/listings.sty (d:/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+\lst@mode=\count271
+\lst@gtempboxa=\box53
+\lst@token=\toks19
+\lst@length=\count272
+\lst@currlwidth=\dimen142
+\lst@column=\count273
+\lst@pos=\count274
+\lst@lostspace=\dimen143
+\lst@width=\dimen144
+\lst@newlines=\count275
+\lst@lineno=\count276
+\lst@maxwidth=\dimen145
+ (d:/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count277
+\lst@skipnumbers=\count278
+\lst@framebox=\box54
+) (d:/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (d:/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+ (d:/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (d:/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)) (d:/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (d:/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (d:/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+ (d:/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen146
+\ar@mcellbox=\box55
+\extrarowheight=\dimen147
+\NC@list=\toks20
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box56
+)
+\everycr=\toks21
+\minrowclearance=\skip53
+) (d:/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (d:/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (d:/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (d:/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+) (d:/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen150
+\lightrulewidth=\dimen151
+\cmidrulewidth=\dimen152
+\belowrulesep=\dimen153
+\belowbottomsep=\dimen154
+\aboverulesep=\dimen155
+\abovetopsep=\dimen156
+\cmidrulesep=\dimen157
+\cmidrulekern=\dimen158
+\defaultaddspace=\dimen159
+\@cmidla=\count279
+\@cmidlb=\count280
+\@aboverulesep=\dimen160
+\@belowrulesep=\dimen161
+\@thisruleclass=\count281
+\@lastruleclass=\count282
+\@thisrulewidth=\dimen162
+) (d:/texlive/texmf-dist/tex/latex/caption/caption2.sty
+Package: caption2 2021/01/20 v2.2i Customising captions (AR)
+ (d:/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen163
+\captionmargin=\dimen164
+\caption@leftmargin=\dimen165
+\caption@rightmargin=\dimen166
+\caption@width=\dimen167
+\caption@indent=\dimen168
+\caption@parindent=\dimen169
+\caption@hangindent=\dimen170
+Package caption Info: Standard document class detected.
+)
+Package caption2 Info: Running in caption2 v2.0 compatibility mode on input line 231.
+\captionlinewidth=\dimen171
+\realcaptionwidth=\dimen172
+Package caption2 Info: float package is not loaded on input line 335.
+Package caption2 Info: longtable package is not loaded on input line 352.
+Package caption2 Info: subfigure package is not loaded on input line 445.
+) (d:/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (d:/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen173
+\Gm@wd@mp=\dimen174
+\Gm@odd@mp=\dimen175
+\Gm@even@mp=\dimen176
+\Gm@layoutwidth=\dimen177
+\Gm@layoutheight=\dimen178
+\Gm@layouthoffset=\dimen179
+\Gm@layoutvoffset=\dimen180
+\Gm@dimlist=\toks22
+) (d:/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+(d:/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (d:/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen181
+)) (d:/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen182
+) (d:/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count286
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count287
+\leftroot@=\count288
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count289
+\DOTSCASE@=\count290
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box57
+\strutbox@=\box58
+\big@size=\dimen183
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count291
+\c@MaxMatrixCols=\count292
+\dotsspace@=\muskip16
+\c@parentequation=\count293
+\dspbrk@lvl=\count294
+\tag@help=\toks24
+\row@=\count295
+\column@=\count296
+\maxfields@=\count297
+\andhelp@=\toks25
+\eqnshift@=\dimen184
+\alignsep@=\dimen185
+\tagshift@=\dimen186
+\tagwidth@=\dimen187
+\totwidth@=\dimen188
+\lineht@=\dimen189
+\@envbody=\toks26
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (d:/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip57
+\subfigcapskip=\skip58
+\subfigcaptopadj=\dimen190
+\subfigbottomskip=\skip59
+\subfigcapmargin=\dimen191
+\subfiglabelskip=\skip60
+\c@subfigure=\count298
+\c@lofdepth=\count299
+\c@subtable=\count300
+\c@lotdepth=\count301
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(d:/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip61
+\subfig@bottom=\skip62
+) (d:/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip63
+\LTright=\skip64
+\LTpre=\skip65
+\LTpost=\skip66
+\LTchunksize=\count302
+\LTcapwidth=\dimen192
+\LT@head=\box59
+\LT@firsthead=\box60
+\LT@foot=\box61
+\LT@lastfoot=\box62
+\LT@gbox=\box63
+\LT@cols=\count303
+\LT@rows=\count304
+\c@LT@tables=\count305
+\c@LT@chunks=\count306
+\LT@p@ftn=\toks28
+) (d:/texlive/texmf-dist/tex/latex/abstract/abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip67
+\absleftindent=\skip68
+\absrightindent=\skip69
+\absparindent=\skip70
+\absparsep=\skip71
+) (d:/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip72
+\multirow@cntb=\count307
+\multirow@dima=\skip73
+\bigstrutjot=\dimen193
+) (d:/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks29
+) (d:/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count308
+\float@exts=\toks30
+\float@box=\box64
+\@float@everytoks=\toks31
+\@floatcapt=\box65
+) (d:/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (d:/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks32
+\c@algorithm=\count309
+) (d:/texlive/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+ (d:/texlive/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count310
+\c@ALG@rem=\count311
+\c@ALG@nested=\count312
+\ALG@tlm=\skip74
+\ALG@thistlm=\skip75
+\c@ALG@Lnr=\count313
+\c@ALG@blocknr=\count314
+\c@ALG@storecount=\count315
+\c@ALG@tmpcounter=\count316
+\ALG@tmplength=\skip76
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (d:/texlive/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2021/10/16 4.8.5
+) (d:/texlive/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+) (d:/texlive/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+) (./20220824.aux
+
+LaTeX Warning: Label `fig:figure 1' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure 2' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure 5' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure 5' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure 5' multiply defined.
+
+)
+\openout1 = `20220824.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+\c@lstlisting=\count317
+ (d:/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count318
+\scratchdimen=\dimen194
+\scratchbox=\box66
+\nofMPsegments=\count319
+\nofMParguments=\count320
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count321
+\MPscratchDim=\dimen195
+\MPnumerator=\count322
+\makeMPintoPDFobject=\count323
+\everyMPtoPDFconversion=\toks34
+) (d:/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (d:/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 69.
+(d:/texlive/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+File: c70rm.fd 2021/12/12 v2.5.8 Chinese font definition (CTEX)
+)
+
+LaTeX Warning: No \author given.
+
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 73.
+(d:/texlive/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
+File: ctex-zhmap-windows.tex 2021/12/12 v2.5.8 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
+{d:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd}{Unicode.sfd}) [1
+
+] [2]
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
+(Font)              size <10.95> substituted on input line 198.
+
+<img/1/red_k_S.png, id=175, 227.34938pt x 182.18062pt>
+File: img/1/red_k_S.png Graphic file (type png)
+<use img/1/red_k_S.png>
+Package pdftex.def Info: img/1/red_k_S.png  used on input line 207.
+(pdftex.def)             Requested size: 204.85846pt x 164.16118pt.
+[3]
+<img/1/white_k_S.png, id=204, 222.8325pt x 208.52907pt>
+File: img/1/white_k_S.png Graphic file (type png)
+<use img/1/white_k_S.png>
+Package pdftex.def Info: img/1/white_k_S.png  used on input line 213.
+(pdftex.def)             Requested size: 204.85846pt x 191.70906pt.
+ [4 <./img/1/red_k_S.png> <./img/1/white_k_S.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (40.68645pt too wide) in paragraph at lines 317--318
+\C70/rm/m/n/10.53937/7b I \C70/rm/m/n/10.53937/59 ^^Z \C70/rm/m/n/10.53937/79 Õ \C70/rm/m/n/10.53937/56 ‡ \C70/rm/m/n/10.53937/7d   \C70/rm/m/n/10.53937/90   \C70/rm/m/n/10.53937/62 ^^P \C70/rm/m/n/10.53937/8b ƒ \C70/rm/m/n/10.53937/52 ^^F \C70/rm/m/n/10.53937/4e ^^N \C70/rm/m/n/10.53937/5b û \C70/rm/m/n/10.53937/8d ı \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/4e ^^M \C70/rm/m/n/10.53937/53 9 \C70/rm/m/n/10.53937/91 M \C70/rm/m/n/10.53937/7e ” \C70/rm/m/n/10.53937/67 ú|\C70/rm/m/n/10.53937/ff ^^L| $\OML/cmm/m/it/10.53937 M[]$\C70/rm/m/n/10.53937/4e : \C70/rm/m/n/10.53937/7b ,$\OML/cmm/m/it/10.53937 k$\C70/rm/m/n/10.53937/4e * \C70/rm/m/n/10.53937/91 R \C70/rm/m/n/10.53937/68 7 \C70/rm/m/n/10.53937/54 ¡ \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/7b ,$\OML/cmm/m/it/10.53937 l$\C70/rm/m/n/10.53937/4e * \C70/rm/m/n/10.53937/98 y \C70/rm/m/n/10.53937/76 Ó Ñ \C70/rm/m/n/10.53937/53 A \C70/rm/m/n/10.53937/4e * \C70/rm/m/n/10.53937/8b ƒ \C70/rm/m/n/10.53937/52 ^^F|\C70/rm/m/n/10.53937/ff ^^L| $\OML/cmm/m/it/10.53937 x[]$\C70/rm/m/n/10.53937/4e :$\OML/cmm/m/it/10.53937 M[]$\C70/rm/m/n/10.53937/4e -
+ []
+
+[5] [6] [7] [8]
+<img/2/Cluster_summary.png, id=235, 1324.95pt x 674.52pt>
+File: img/2/Cluster_summary.png Graphic file (type png)
+<use img/2/Cluster_summary.png>
+Package pdftex.def Info: img/2/Cluster_summary.png  used on input line 502.
+(pdftex.def)             Requested size: 409.71692pt x 208.58443pt.
+
+Overfull \hbox (11.22264pt too wide) in paragraph at lines 507--508
+[]\C70/rm/m/n/10.53937/4e 
+ \C70/rm/m/n/10.53937/88 h \C70/rm/m/n/10.53937/68 < \C70/rm/m/n/10.53937/5c U \C70/rm/m/n/10.53937/79 : \C70/rm/m/n/10.53937/4e Ü \C70/rm/m/n/10.53937/6a ! \C70/rm/m/n/10.53937/57 ã \C70/rm/m/n/10.53937/80 Z \C70/rm/m/n/10.53937/7c { \C70/rm/m/n/10.53937/7e ” \C70/rm/m/n/10.53937/67 ú \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/90 Ë \C70/rm/m/n/10.53937/52 ^^F \C70/rm/m/n/10.53937/65 p \C70/rm/m/n/10.53937/63 n \C70/rm/m/n/10.53937/80 Z \C70/rm/m/n/10.53937/7c { \C70/rm/m/n/10.53937/68 ^^G \C70/rm/m/n/10.53937/6c Ë|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/51 v \C70/rm/m/n/10.53937/4e : \C70/rm/m/n/10.53937/98 Ñ \C70/rm/m/n/10.53937/89 » \C70/rm/m/n/10.53937/7e ” \C70/rm/m/n/10.53937/67 ú|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/53 Í \C70/rm/m/n/10.53937/66 > \C70/rm/m/n/10.53937/79 : \C70/rm/m/n/10.53937/7e ¸ \C70/rm/m/n/10.53937/54 ^^H \C70/rm/m/n/10.53937/63 í \C70/rm/m/n/10.53937/5e è \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/52 M\OT1/cmr/m/n/10.53937 10\C70/rm/m/n/10.53937/67 a
+ []
+
+[9 <./img/2/Cluster_summary.png>]
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ˚ in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+[10]
+
+LaTeX Warning: Text page 11 contains only floats.
+
+[11]
+<img/Anthocyanin_correlation_data.png, id=250, 2177.13374pt x 1619.04875pt>
+File: img/Anthocyanin_correlation_data.png Graphic file (type png)
+<use img/Anthocyanin_correlation_data.png>
+Package pdftex.def Info: img/Anthocyanin_correlation_data.png  used on input line 694.
+(pdftex.def)             Requested size: 409.71692pt x 304.6826pt.
+<img/DPPH_semi_inhibitory_volume_correlation_data.png, id=251, 2178.1375pt x 1634.105pt>
+File: img/DPPH_semi_inhibitory_volume_correlation_data.png Graphic file (type png)
+<use img/DPPH_semi_inhibitory_volume_correlation_data.png>
+Package pdftex.def Info: img/DPPH_semi_inhibitory_volume_correlation_data.png  used on input line 700.
+(pdftex.def)             Requested size: 409.71692pt x 307.36638pt.
+ [12 <./img/Anthocyanin_correlation_data.png (PNG copy)>]
+<img/Correlation_data_of_total flavonoids_in_wine.png, id=256, 2178.1375pt x 1619.04875pt>
+File: img/Correlation_data_of_total flavonoids_in_wine.png Graphic file (type png)
+<use img/Correlation_data_of_total flavonoids_in_wine.png>
+Package pdftex.def Info: img/Correlation_data_of_total flavonoids_in_wine.png  used on input line 707.
+(pdftex.def)             Requested size: 409.71692pt x 304.53438pt.
+<img/Color_correlation_data.png, id=257, 2283.53125pt x 1755.55875pt>
+File: img/Color_correlation_data.png Graphic file (type png)
+<use img/Color_correlation_data.png>
+Package pdftex.def Info: img/Color_correlation_data.png  used on input line 713.
+(pdftex.def)             Requested size: 409.71692pt x 314.96901pt.
+ [13 <./img/DPPH_semi_inhibitory_volume_correlation_data.png (PNG copy)> <./img/Correlation_data_of_total flavonoids_in_wine.png (PNG copy)>] [14 <./img/Color_correlation_data.png (PNG copy)>]
+Missing character: There is no § in font cmr10!
+Missing character: There is no ﬁ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ﬁ in font cmr10!
+Missing character: There is no ﬁ in font cmr10!
+<img/ANOVA.png, id=266, 488.82625pt x 476.78125pt>
+File: img/ANOVA.png Graphic file (type png)
+<use img/ANOVA.png>
+Package pdftex.def Info: img/ANOVA.png  used on input line 770.
+(pdftex.def)             Requested size: 236.72987pt x 204.85916pt.
+[15]
+Overfull \hbox (12.42851pt too wide) in paragraph at lines 776--778
+[]\C70/rm/m/n/10.53937/52 ^^F \C70/rm/m/n/10.53937/67 ê \C70/rm/m/n/10.53937/89 ¬ \C70/rm/m/n/10.53937/5b ﬂ \C70/rm/m/n/10.53937/4e 	 \C70/rm/m/n/10.53937/7e ƒ \C70/rm/m/n/10.53937/56 ﬁ \C70/rm/m/n/10.53937/5f R \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/65 p \C70/rm/m/n/10.53937/63 n|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/53 — \C70/rm/m/n/10.53937/73 ∞ \C70/rm/m/n/10.53937/4e 	 * \C70/rm/m/n/10.53937/6a ! \C70/rm/m/n/10.53937/57 ã \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/66 > \C70/rm/m/n/10.53937/84 W \C70/rm/m/n/10.53937/60 ' \C70/rm/m/n/10.53937/90 ˝ \C70/rm/m/n/10.53937/66 /\OT1/cmr/m/n/10.53937 <0.01|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/51 v\OT1/cmr/m/n/10.53937 F\C70/rm/m/n/10.53937/68 ¿ \C70/rm/m/n/10.53937/6d K \C70/rm/m/n/10.53937/50 < \C70/rm/m/n/10.53937/52 ^^F + \C70/rm/m/n/10.53937/4e :|\C70/rm/m/n/10.53937/ff ^^Z| \OT1/cmr/m/n/10.53937 14.906|\C70/rm/m/n/10.53937/30 ^^A| \OT1/cmr/m/n/10.53937 22.821|\C70/rm/m/n/10.53937/30 ^^A|
+ []
+
+<img/Residuals_Statistics.png, id=272, 581.17125pt x 350.30875pt>
+File: img/Residuals_Statistics.png Graphic file (type png)
+<use img/Residuals_Statistics.png>
+Package pdftex.def Info: img/Residuals_Statistics.png  used on input line 781.
+(pdftex.def)             Requested size: 236.72986pt x 204.86298pt.
+<img/Coefficient_table.png, id=273, 568.1225pt x 1098.1025pt>
+File: img/Coefficient_table.png Graphic file (type png)
+<use img/Coefficient_table.png>
+Package pdftex.def Info: img/Coefficient_table.png  used on input line 795.
+(pdftex.def)             Requested size: 364.21263pt x 487.10417pt.
+[16 <./img/ANOVA.png (PNG copy)> <./img/Residuals_Statistics.png (PNG copy)>]
+<img/abstrat.png, id=277, 442.65375pt x 356.33125pt>
+File: img/abstrat.png Graphic file (type png)
+<use img/abstrat.png>
+Package pdftex.def Info: img/abstrat.png  used on input line 802.
+(pdftex.def)             Requested size: 236.73297pt x 204.85625pt.
+ [17 <./img/Coefficient_table.png (PNG copy)>]
+Overfull \hbox (1.90068pt too wide) in paragraph at lines 806--809
+\C70/rm/m/n/10.53937/65 p \C70/rm/m/n/10.53937/63 n \C70/rm/m/n/10.53937/67 e \C70/rm/m/n/10.53937/8f € \C70/rm/m/n/10.53937/88 L \C70/rm/m/n/10.53937/65 π \C70/rm/m/n/10.53937/7a  \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/5e ˙ \C70/rm/m/n/10.53937/7a À|\C70/rm/m/n/10.53937/30 ^^B| \C70/rm/m/n/10.53937/75 1 \C70/rm/m/n/10.53937/59 Ç \C70/rm/m/n/10.53937/4e  \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/7c ˚ \C70/rm/m/n/10.53937/65 p \C70/rm/m/n/10.53937/88 h \C70/rm/m/n/10.53937/67 e \C70/rm/m/n/10.53937/5f ó \C70/rm/m/n/10.53937/52 0 \C70/rm/m/n/10.53937/7c ˚ \C70/rm/m/n/10.53937/65 p \C70/rm/m/n/10.53937/51 s \C70/rm/m/n/10.53937/7c ˚|\C70/rm/m/n/10.53937/30 ^^B| \C70/rm/m/n/10.53937/90 	 \C70/rm/m/n/10.53937/53 ÷ \C70/rm/m/n/10.53937/82 ˘ \C70/rm/m/n/10.53937/67 ú \C70/rm/m/n/10.53937/91 x|\C70/rm/m/n/10.53937/30 ^^A| \C70/rm/m/n/10.53937/67 ú \C70/rm/m/n/10.53937/68 ó \C70/rm/m/n/10.53937/6b ‘|\C70/rm/m/n/10.53937/30 ^^A| \C70/rm/m/n/10.53937/67 ‡ \C70/rm/m/n/10.53937/6a ¨ \C70/rm/m/n/10.53937/91 x|\C70/rm/m/n/10.53937/30 ^^A| \OT1/cmr/m/n/10.53937 DPPH\C70/rm/m/n/10.53937/81 Í
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18 <./img/abstrat.png (PNG copy)>]
+<img/4/solid.png, id=285, 2363.83125pt x 581.17125pt>
+File: img/4/solid.png Graphic file (type png)
+<use img/4/solid.png>
+Package pdftex.def Info: img/4/solid.png  used on input line 901.
+(pdftex.def)             Requested size: 236.72159pt x 204.85846pt.
+<img/4/heatmaps.png, id=286, 1606.0pt x 891.33pt>
+File: img/4/heatmaps.png Graphic file (type png)
+<use img/4/heatmaps.png>
+Package pdftex.def Info: img/4/heatmaps.png  used on input line 956.
+(pdftex.def)             Requested size: 236.72366pt x 236.73175pt.
+ [19 <./img/4/solid.png>]
+Overfull \vbox (154.0967pt too high) has occurred while \output is active []
+
+ [20 <./img/4/heatmaps.png>]
+<img/4/3d_analysise.png, id=297, 1023.825pt x 774.895pt>
+File: img/4/3d_analysise.png Graphic file (type png)
+<use img/4/3d_analysise.png>
+Package pdftex.def Info: img/4/3d_analysise.png  used on input line 966.
+(pdftex.def)             Requested size: 236.72458pt x 204.8496pt.
+ [21 <./img/4/3d_analysise.png>]
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ˘ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no æ in font cmr10!
+
+Overfull \hbox (1252.84464pt too wide) detected at line 978
+[]\OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 1 = 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 056 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 119 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 086 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 088 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 029 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 103 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 111 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 062 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 019 \OMS/cmsy/m/n/10.53937 ^^B [][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 116 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 097 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 046 \OMS/cmsy/m/n/10.53937 ^^B [][][][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 055 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 038 \OMS/cmsy/m/n/10.53937 ^^B [][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 045 \OMS/cmsy/m/n/10.53937 ^^B [][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 005 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 043 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 DPPH[][][] \OMS/cmsy/m/n/10.53937 ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 003 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 062 \OMS/cmsy/m/n/10.53937 ^^B [][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 077 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 001 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 015 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 VC[][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 101 \OMS/cmsy/m/n/10.53937 ^^B [][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 054 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 025 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 039 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 022 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 097 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 105 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 022 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 079 \OMS/cmsy/m/n/10.53937 ^^B [][][]
+ []
+
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ˘ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no æ in font cmr10!
+
+Overfull \hbox (1245.23285pt too wide) detected at line 982
+[]\OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 2 = \OMS/cmsy/m/n/10.53937 ^^@\OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 035 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 058 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 008 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 045 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 017 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 056 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 031 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 085 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 009 \OMS/cmsy/m/n/10.53937 ^^B [][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 058 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 019 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 082 \OMS/cmsy/m/n/10.53937 ^^B [][][][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 102 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 018 \OMS/cmsy/m/n/10.53937 ^^B [][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 129 \OMS/cmsy/m/n/10.53937 ^^B [][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 076 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 115 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 DPPH[][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 13 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 123 \OMS/cmsy/m/n/10.53937 ^^B [][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 059 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 021 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 012 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 VC[][] \OMS/cmsy/m/n/10.53937 ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 048 \OMS/cmsy/m/n/10.53937 ^^B [][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 007 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 16 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 012 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 053 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 069 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 082 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 107 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 09 \OMS/cmsy/m/n/10.53937 ^^B [][][]
+ []
+
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ˘ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no æ in font cmr10!
+
+Overfull \hbox (1245.23285pt too wide) detected at line 985
+[]\OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 3 = \OMS/cmsy/m/n/10.53937 ^^@\OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 036 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 015 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 119 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 04 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 078 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 037 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 012 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 135 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 006 \OMS/cmsy/m/n/10.53937 ^^B [][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 014 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 168 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 052 \OMS/cmsy/m/n/10.53937 ^^B [][][][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 137 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 033 \OMS/cmsy/m/n/10.53937 ^^B [][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 049 \OMS/cmsy/m/n/10.53937 ^^B [][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 178 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 139 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 DPPH[][][] \OMS/cmsy/m/n/10.53937 ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 076 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 114 \OMS/cmsy/m/n/10.53937 ^^B [][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 135 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 097 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 022 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 VC[][] \OMS/cmsy/m/n/10.53937 ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 013 \OMS/cmsy/m/n/10.53937 ^^B [][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 058 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 011 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 144 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 026 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 08 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 058 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 167 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 04 \OMS/cmsy/m/n/10.53937 ^^B [][][]
+ []
+
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ˘ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no æ in font cmr10!
+
+Overfull \hbox (1210.68704pt too wide) detected at line 988
+[]\OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 4 = 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 154 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 06 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 022 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 067 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 333 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 141 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 037 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 079 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 054 \OMS/cmsy/m/n/10.53937 ^^B [][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 091 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 004 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 057 \OMS/cmsy/m/n/10.53937 ^^B [][][][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 074 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 024 \OMS/cmsy/m/n/10.53937 ^^B [][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 012 \OMS/cmsy/m/n/10.53937 ^^B [][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 08 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 082 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 DPPH[][][] \OMS/cmsy/m/n/10.53937 ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 07 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 029 \OMS/cmsy/m/n/10.53937 ^^B [][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 012 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 33 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 044 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 VC[][] \OMS/cmsy/m/n/10.53937 ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 11 \OMS/cmsy/m/n/10.53937 ^^B [][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 14 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 01 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 136 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 107 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 045 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 07 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 026 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 065 \OMS/cmsy/m/n/10.53937 ^^B [][][]
+ []
+
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ˘ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no æ in font cmr10!
+
+Overfull \hbox (1245.23285pt too wide) detected at line 991
+[]\OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 5 = \OMS/cmsy/m/n/10.53937 ^^@\OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 082 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 01 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 086 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 265 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 013 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 039 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 154 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 142 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 109 \OMS/cmsy/m/n/10.53937 ^^B [][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 02 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 003 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 216 \OMS/cmsy/m/n/10.53937 ^^B [][][][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 125 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 108 \OMS/cmsy/m/n/10.53937 ^^B [][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 062 \OMS/cmsy/m/n/10.53937 ^^B [][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 096 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 061 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 DPPH[][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 106 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 077 \OMS/cmsy/m/n/10.53937 ^^B [][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 077 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 023 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 161 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 VC[][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 029 \OMS/cmsy/m/n/10.53937 ^^B [][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 144 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 053 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 174 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 253 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 115 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 151 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 05 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 122 \OMS/cmsy/m/n/10.53937 ^^B [][][]
+ []
+
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ˘ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no æ in font cmr10!
+
+Overfull \hbox (1255.77225pt too wide) detected at line 994
+[]\OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 6 = \OMS/cmsy/m/n/10.53937 ^^@\OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 089 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 097 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 075 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 043 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 085 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 054 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 012 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 053 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 412 \OMS/cmsy/m/n/10.53937 ^^B [][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 121 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 069 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 178 \OMS/cmsy/m/n/10.53937 ^^B [][][][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 075 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 029 \OMS/cmsy/m/n/10.53937 ^^B [][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 018 \OMS/cmsy/m/n/10.53937 ^^B [][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 201 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 068 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 DPPH[][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 045 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 097 \OMS/cmsy/m/n/10.53937 ^^B [][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 07 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 097 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 329 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 VC[][] \OMS/cmsy/m/n/10.53937 ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 146 \OMS/cmsy/m/n/10.53937 ^^B [][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 157 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 018 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 102 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 177 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 132 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 027 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 023 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 171 \OMS/cmsy/m/n/10.53937 ^^B [][][]
+ []
+
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ˘ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no æ in font cmr10!
+
+Overfull \hbox (1226.49614pt too wide) detected at line 997
+[]\OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 7 = 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 18 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 045 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 111 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 038 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 12 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 032 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 108 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 123 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 082 \OMS/cmsy/m/n/10.53937 ^^B [][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 03 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 032 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 068 \OMS/cmsy/m/n/10.53937 ^^B [][][][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 003 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 38 \OMS/cmsy/m/n/10.53937 ^^B [][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 098 \OMS/cmsy/m/n/10.53937 ^^B [][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 011 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 069 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 DPPH[][][] \OMS/cmsy/m/n/10.53937 ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 012 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 061 \OMS/cmsy/m/n/10.53937 ^^B [][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 061 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 108 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 256 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 VC[][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 067 \OMS/cmsy/m/n/10.53937 ^^B [][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 24 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 063 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 216 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 309 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 048 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 076 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 134 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 072 \OMS/cmsy/m/n/10.53937 ^^B [][][]
+ []
+
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ˙ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ˘ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no æ in font cmr10!
+
+Overfull \hbox (1231.76584pt too wide) detected at line 1000
+[]\OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 8 = 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 319 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 166 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 189 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 08 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 045 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 015 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 062 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 139 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 396 \OMS/cmsy/m/n/10.53937 ^^B [][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 098 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 061 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 197 \OMS/cmsy/m/n/10.53937 ^^B [][][][][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 006 \OMS/cmsy/m/n/10.53937 ^^B [][][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 493 \OMS/cmsy/m/n/10.53937 ^^B [][][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 114 \OMS/cmsy/m/n/10.53937 ^^B [][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 026 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 16 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 DPPH[][][] \OMS/cmsy/m/n/10.53937 ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 001 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 035 \OMS/cmsy/m/n/10.53937 ^^B [][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 272 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 04 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 102 \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 VC[][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 096 \OMS/cmsy/m/n/10.53937 ^^B [][][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 012 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 003 \OMS/cmsy/m/n/10.53937 ^^B [][][] \OT1/cmr/m/n/10.53937 + 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 127 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 08 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 082 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 085 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 005 \OMS/cmsy/m/n/10.53937 ^^B [][][] ^^@ \OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 056 \OMS/cmsy/m/n/10.53937 ^^B [][][]
+ []
+
+
+Overfull \hbox (284.66502pt too wide) detected at line 1004
+[]\OML/cmm/m/it/10.53937 F \OT1/cmr/m/n/10.53937 = (0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 22\OML/cmm/m/it/10.53937 =\OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 834) \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 1 + (0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 187\OML/cmm/m/it/10.53937 =\OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 834) \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 2 + (0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 125\OML/cmm/m/it/10.53937 =\OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 834) \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 3 + (0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 082\OML/cmm/m/it/10.53937 =\OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 834) \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 4 + (0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 071\OML/cmm/m/it/10.53937 =\OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 834) \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 5 + (0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 056\OML/cmm/m/it/10.53937 =\OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 834) \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 6 + (0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 055\OML/cmm/m/it/10.53937 =\OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 834) \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 7 + (0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 039\OML/cmm/m/it/10.53937 =\OT1/cmr/m/n/10.53937 0\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 834) \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 F\OT1/cmr/m/n/10.53937 8
+ []
+
+[22] [23] [24
+
+] (./20220824.bbl) [25
+
+] (d:/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) [26
+
+] [27] [28]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1238.
+ (d:/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.53937> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1238.
+ [29] [30] (./20220824.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.41063pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 13288 strings out of 478268
+ 229190 string characters out of 5852840
+ 931222 words of memory out of 5000000
+ 30954 multiletter control sequences out of 15000+600000
+ 524699 words of font info for 228 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,14n,78p,885b,976s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>{d:/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><d:/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on 20220824.pdf (30 pages, 3218803 bytes).
+PDF statistics:
+ 769 PDF objects out of 1000 (max. 8388607)
+ 483 compressed objects within 5 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 383 words of extra memory for PDF output out of 10000 (max. 10000000)
+
