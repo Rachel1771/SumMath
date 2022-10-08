@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{arsham2011bartlett}
+Hossein Arsham and Miodrag Lovric.
+\newblock Bartlett's test.
+\newblock {\em International encyclopedia of statistical science}, 1:87--88,
+  2011.
+
+\bibitem{arthur2006k}
+David Arthur and Sergei Vassilvitskii.
+\newblock k-means++: The advantages of careful seeding.
+\newblock Technical report, Stanford, 2006.
+
+\bibitem{de2013using}
+Joost~CF De~Winter.
+\newblock Using the student's t-test with extremely small sample sizes.
+\newblock {\em Practical Assessment, Research, and Evaluation}, 18(1):10, 2013.
+
+\bibitem{hommerberg2011persuasiveness}
+Charlotte Hommerberg.
+\newblock {\em Persuasiveness in the discourse of wine: The rhetoric of Robert
+  Parker}.
+\newblock PhD thesis, Linnaeus University Press, 2011.
+
+\bibitem{young1977proof}
+Ian~T Young.
+\newblock Proof without prejudice: use of the kolmogorov-smirnov test for the
+  analysis of histograms from flow systems and other sources.
+\newblock {\em Journal of Histochemistry \& Cytochemistry}, 25(7):935--941,
+  1977.
+
+\end{thebibliography}
