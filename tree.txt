@@ -1,0 +1,4090 @@
+卷 D 的文件夹 PATH 列表
+卷序列号为 E0E8-847F
+D:.
+|   draw.md
+|   Model_compare.jpg
+|   Model_compare.md
+|   README.md
+|   solver.md
+|   tree.txt
+|   Web.md
+|   
++---2022GUETmathmodel
+|   |   ARIMA.ipynb
+|   |   draw_ratio.ipynb
+|   |   model.py
+|   |   ratio.ipynb
+|   |   README.md
+|   |   SIR_SEIR_SEIRS.ipynb
+|   |   数学建模答辩.pptx
+|   |   
+|   +---.idea
+|   |   |   .gitignore
+|   |   |   deployment.xml
+|   |   |   misc.xml
+|   |   |   modules.xml
+|   |   |   vcs.xml
+|   |   |   校赛新冠疫情预测.iml
+|   |   |   
+|   |   \---inspectionProfiles
+|   |           profiles_settings.xml
+|   |           Project_Default.xml
+|   |           
+|   +---.ipynb_checkpoints
+|   |       ARIMA-checkpoint.ipynb
+|   |       draw_csv-checkpoint.ipynb
+|   |       draw_cure-checkpoint.ipynb
+|   |       draw_ratio-checkpoint.ipynb
+|   |       pandas-checkpoint.ipynb
+|   |       Q1-checkpoint.ipynb
+|   |       Q3-checkpoint.ipynb
+|   |       ratio-checkpoint.ipynb
+|   |       SIR-checkpoint.ipynb
+|   |       Untitled-checkpoint.ipynb
+|   |       
+|   +---2022校级比赛赛题
+|   |   +---A题
+|   |   |       A题.docx
+|   |   |       附件1：长隆野生动物园地图.jpg
+|   |   |       附件2：长隆野生动物园某一天的表演时间.docx
+|   |   |       
+|   |   \---B题
+|   |           B题.doc
+|   |           附件1：全球新冠肺炎确诊病例数据（截止2022年6月4日）.csv
+|   |           附件2：全球新冠肺炎死亡病例数据（截止2022年6月4日）.csv
+|   |           附件3：全球新冠肺炎治愈病例数据（截止2022年6月4日）.csv
+|   |           附件4：数据指标说明.docx
+|   |           
+|   +---data
+|   |       American.csv
+|   |       ChinaBank.csv
+|   |       china_data.csv
+|   |       confimed.csv
+|   |       confirmed_china.csv
+|   |       confirmed_china.xlsx
+|   |       cure.csv
+|   |       died.csv
+|   |       france.xlsx
+|   |       timeline.xlsx
+|   |       train.csv
+|   |       train.xlsx
+|   |       
+|   +---doc
+|   |       B题.doc
+|   |       附件4：数据指标说明.docx
+|   |       
+|   +---img
+|   |   |   ARIMA_China.png
+|   |   |   Arima_us.png
+|   |   |   Arima_us_cure.png
+|   |   |   Arima_us_died.png
+|   |   |   China_pred.png
+|   |   |   china_pred_died.png
+|   |   |   china_pred_infected&died.png
+|   |   |   china_pred_infected.png
+|   |   |   中国SEIR传播时间曲线.png
+|   |   |   中国SIR模型.png
+|   |   |   中国变化趋势.png
+|   |   |   美国SEIRS传播时间曲线.png
+|   |   |   英国SIR模型.png
+|   |   |   
+|   |   +---confime
+|   |   |       China_confime.png
+|   |   |       Chine_confime.png
+|   |   |       Earth_confime.png
+|   |   |       France_confime.png
+|   |   |       Germany_confime.png
+|   |   |       Korea, North_confime.png
+|   |   |       
+|   |   +---cure
+|   |   |       China_cure.png
+|   |   |       France_cure.png
+|   |   |       Germany_cure.png
+|   |   |       Korea, North_cure.png
+|   |   |       
+|   |   +---died
+|   |   |       China_died.png
+|   |   |       France_died.png
+|   |   |       Germany_died.png
+|   |   |       Korea, North_died.png
+|   |   |       
+|   |   +---Q1
+|   |   |   |   各国新冠疫情确诊人数在本国的占比对比.png
+|   |   |   |   四国新冠疫情确诊人数对比.png
+|   |   |   |   
+|   |   |   +---ratio
+|   |   |   |       China_Yunnan_trend.png
+|   |   |   |       
+|   |   |   \---trend
+|   |   |           China.png
+|   |   |           China_Beijing_trend.png
+|   |   |           China_Yunnan_trend.png
+|   |   |           Earthtrend.png
+|   |   |           Korea, North.png
+|   |   |           
+|   |   \---Q3
+|   |           ARIMA_predict.png
+|   |           AT_PA.png
+|   |           diff.png
+|   |           eval.png
+|   |           matric.png
+|   |           mean_std.png
+|   |           train_test.png
+|   |           无动态清零.png
+|   |           
+|   +---reference
+|   |       基于SEIR-ARIMA混合模型的新冠肺炎预测_董章功.pdf
+|   |       
+|   +---submission
+|   |       22B01132.doc
+|   |       
+|   \---__pycache__
+|           model.cpython-37.pyc
+|           
++---Latex
+|   +---doc
+|   |   |   ref.bib
+|   |   |   test2.aux
+|   |   |   test2.bbl
+|   |   |   test2.blg
+|   |   |   test2.log
+|   |   |   test2.pdf
+|   |   |   test2.synctex.gz
+|   |   |   test2.tex
+|   |   |   
+|   |   \---example
+|   |       |   20220824.aux
+|   |       |   20220824.bbl
+|   |       |   20220824.blg
+|   |       |   20220824.log
+|   |       |   20220824.pdf
+|   |       |   20220824.synctex.gz
+|   |       |   20220824.tex
+|   |       |   ref.bib
+|   |       |   
+|   |       \---img
+|   |           |   abstrat.png
+|   |           |   ANOVA.png
+|   |           |   Anthocyanin_correlation_data.png
+|   |           |   Coefficient_table.png
+|   |           |   Color_correlation_data.png
+|   |           |   Correlation_data_of_total flavonoids_in_wine.png
+|   |           |   DPPH_semi_inhibitory_volume_correlation_data.png
+|   |           |   Residuals_Statistics.png
+|   |           |   
+|   |           +---1
+|   |           |       red_k_S.png
+|   |           |       white_k_S.png
+|   |           |       
+|   |           +---2
+|   |           |       Cluster_summary.png
+|   |           |       
+|   |           \---4
+|   |                   3d_analysise.png
+|   |                   heatmaps.png
+|   |                   solid.png
+|   |                   
+|   \---test
+|       |   20220823.pdf
+|       |   20220823.synctex.gz
+|       |   20220823.tex
+|       |   20220824.pdf
+|       |   20220824.synctex.gz
+|       |   20220824.tex
+|       |   demo2.pdf
+|       |   demo2.synctex.gz
+|       |   demo2.tex
+|       |   
+|       \---img
+|               ANOVA.png
+|               DPPH半抑制体积相关性数据.png
+|               摘要表.png
+|               残差统计.png
+|               系数表.png
+|               色泽相关性数据.png
+|               花色苷相关性数据.png
+|               酒总黄酮相关性数据.png
+|               
++---Latex-study
+|   |   LICENSE
+|   |   README.md
+|   |   
+|   +---chapter-0
+|   |       intro.ipynb
+|   |       preface.ipynb
+|   |       README.md
+|   |       tableofcontents.ipynb
+|   |       
+|   +---chapter-1
+|   |   |   README.md
+|   |   |   section0.ipynb
+|   |   |   section1.ipynb
+|   |   |   section2.ipynb
+|   |   |   section3.ipynb
+|   |   |   section4.ipynb
+|   |   |   section5.ipynb
+|   |   |   summary.ipynb
+|   |   |   
+|   |   \---graphics
+|   |           1.6-1.jpg
+|   |           1.6-2.jpg
+|   |           Donald_Knuth.jpeg
+|   |           github_organization_ranking.png
+|   |           github_trending_tex.png
+|   |           github_webpage.png
+|   |           latex_forum_math_science.png
+|   |           latex_forum_webpage.png
+|   |           Leslie_Lamport.jpeg
+|   |           overleaf_example.png
+|   |           overleaf_webpage.png
+|   |           tex_stackexchange_webpage.png
+|   |           
+|   +---chapter-10
+|   |   |   section0.ipynb
+|   |   |   section1.ipynb
+|   |   |   section2.ipynb
+|   |   |   section3.ipynb
+|   |   |   section4.ipynb
+|   |   |   
+|   |   \---graphics
+|   |           example1.png
+|   |           example10_1_1.png
+|   |           example10_1_2.png
+|   |           example10_1_3.png
+|   |           example10_3_1.png
+|   |           example10_3_2.png
+|   |           example10_3_3.png
+|   |           example10_3_4.png
+|   |           example10_4_1.png
+|   |           example10_4_2.png
+|   |           example10_4_3.png
+|   |           example10_4_4.png
+|   |           example10_4_5.png
+|   |           example10_4_6_1.png
+|   |           example10_4_6_2.png
+|   |           example10_4_6_3.png
+|   |           example2.png
+|   |           
+|   +---chapter-2
+|   |   |   section0.ipynb
+|   |   |   section1.ipynb
+|   |   |   section2.ipynb
+|   |   |   section3.ipynb
+|   |   |   section4.ipynb
+|   |   |   section5.ipynb
+|   |   |   section6.ipynb
+|   |   |   
+|   |   \---graphics
+|   |           example2_1.png
+|   |           example2_1_1.png
+|   |           example2_1_2.png
+|   |           example2_2.png
+|   |           example2_3.png
+|   |           example2_4_1.png
+|   |           example2_4_1_1.png
+|   |           example2_4_1_2.png
+|   |           example2_4_2.png
+|   |           example2_4_21.png
+|   |           example2_4_3.png
+|   |           example2_4_31.png
+|   |           example2_4_4_1.png
+|   |           example2_4_4_2.png
+|   |           example3_1.png
+|   |           example3_2_1.png
+|   |           example3_2_2.png
+|   |           example3_3_1.png
+|   |           example3_3_2.png
+|   |           example3_3_3.png
+|   |           zh_example1.png
+|   |           zh_example2.png
+|   |           zh_example3.png
+|   |           zh_example4.png
+|   |           zh_example5.png
+|   |           
+|   +---chapter-3
+|   |   |   README.md
+|   |   |   section0.ipynb
+|   |   |   section1.ipynb
+|   |   |   section2.ipynb
+|   |   |   section3.ipynb
+|   |   |   section4.ipynb
+|   |   |   section5.ipynb
+|   |   |   section6.ipynb
+|   |   |   section7.ipynb
+|   |   |   
+|   |   \---graphics
+|   |           example3_1_1.png
+|   |           example3_2_1.png
+|   |           example3_2_2.png
+|   |           example3_2_3.png
+|   |           example3_2_4.png
+|   |           example3_3_1.png
+|   |           example3_3_2.png
+|   |           example3_4_1.png
+|   |           example3_4_2.png
+|   |           example3_4_3.png
+|   |           example3_4_4.png
+|   |           example3_4_5.png
+|   |           example3_4_6.png
+|   |           example3_4_7.png
+|   |           example3_5_1.png
+|   |           example3_5_10.png
+|   |           example3_5_2.png
+|   |           example3_5_3.png
+|   |           example3_5_4.png
+|   |           example3_5_5.png
+|   |           example3_5_6.png
+|   |           example3_5_7.png
+|   |           example3_5_7_1.png
+|   |           example3_5_8.png
+|   |           example3_5_9.png
+|   |           example3_6_1.png
+|   |           example3_6_2.png
+|   |           example3_6_3.png
+|   |           example3_6_4.png
+|   |           example3_6_5.png
+|   |           example3_6_6.png
+|   |           example3_6_7.png
+|   |           example3_7_1_1.png
+|   |           example3_7_2_1.png
+|   |           example3_7_2_2.png
+|   |           example3_7_3.png
+|   |           example3_7_4.png
+|   |           
+|   +---chapter-4
+|   |   |   README.md
+|   |   |   section0.ipynb
+|   |   |   section1.ipynb
+|   |   |   section2.ipynb
+|   |   |   section3.ipynb
+|   |   |   section4.ipynb
+|   |   |   section5.ipynb
+|   |   |   section6.ipynb
+|   |   |   section7.ipynb
+|   |   |   
+|   |   \---graphics
+|   |           example4_1_1.png
+|   |           example4_1_10.png
+|   |           example4_1_11.png
+|   |           example4_1_12.png
+|   |           example4_1_13.png
+|   |           example4_1_14.png
+|   |           example4_1_2.png
+|   |           example4_1_3.png
+|   |           example4_1_4.png
+|   |           example4_1_5.png
+|   |           example4_1_6.png
+|   |           example4_1_7.png
+|   |           example4_1_8.png
+|   |           example4_1_9.png
+|   |           example4_2_11.png
+|   |           example4_2_15.png
+|   |           
+|   +---chapter-5
+|   |   |   new_section0.ipynb
+|   |   |   new_section1.ipynb
+|   |   |   new_section2.ipynb
+|   |   |   new_section3.ipynb
+|   |   |   new_section4.ipynb
+|   |   |   section0.ipynb
+|   |   |   section1.ipynb
+|   |   |   section2.ipynb
+|   |   |   section3.ipynb
+|   |   |   section4.ipynb
+|   |   |   section5.ipynb
+|   |   |   section6.ipynb
+|   |   |   section7.ipynb
+|   |   |   section8.ipynb
+|   |   |   section9.ipynb
+|   |   |   
+|   |   +---.ipynb_checkpoints
+|   |   |       section7-checkpoint.ipynb
+|   |   |       
+|   |   \---graphics
+|   |           eg5_1.png
+|   |           eg5_10.png
+|   |           eg5_11.png
+|   |           eg5_12.png
+|   |           eg5_13.png
+|   |           eg5_14.png
+|   |           eg5_15new.png
+|   |           eg5_16new.png
+|   |           eg5_17.png
+|   |           eg5_18.png
+|   |           eg5_19_1.png
+|   |           eg5_19_2.png
+|   |           eg5_2.png
+|   |           eg5_20.png
+|   |           eg5_21.png
+|   |           eg5_22.png
+|   |           eg5_23.png
+|   |           eg5_24.png
+|   |           eg5_25.png
+|   |           eg5_26.png
+|   |           eg5_27.png
+|   |           eg5_28.png
+|   |           eg5_29.png
+|   |           eg5_3.png
+|   |           eg5_30.png
+|   |           eg5_3new.png
+|   |           eg5_4.png
+|   |           eg5_5.png
+|   |           eg5_6.png
+|   |           eg5_7.png
+|   |           eg5_8.png
+|   |           eg5_9.png
+|   |           example5_2_1.png
+|   |           example5_2_2.png
+|   |           example5_2_8.png
+|   |           example5_2_9.png
+|   |           example5_3_1.png
+|   |           example5_3_13.png
+|   |           example5_3_14.png
+|   |           example5_3_15.png
+|   |           example5_3_2.png
+|   |           example5_3_3.png
+|   |           example5_3_4.png
+|   |           example5_3_5.png
+|   |           example5_3_6.png
+|   |           example5_3_7.png
+|   |           example5_3_8.png
+|   |           example5_3_9.png
+|   |           example_sec1_1.png
+|   |           example_sec1_2.png
+|   |           example_sec1_3.png
+|   |           example_sec1_4.png
+|   |           example_sec1_5.png
+|   |           example_sec1_6.png
+|   |           example_sec2_4.png
+|   |           example_sec2_5.png
+|   |           example_sec2_6.png
+|   |           example_sec2_7.png
+|   |           example_sec3_1.png
+|   |           example_sec3_2.png
+|   |           example_sec3_3.png
+|   |           example_sec3_4.png
+|   |           example_sec3_5.png
+|   |           newexm5_1_1.png
+|   |           newexm5_1_3.png
+|   |           newexm5_1_4.png
+|   |           newexm5_2_1.png
+|   |           newexm5_2_10.png
+|   |           newexm5_2_11.png
+|   |           newexm5_2_2.png
+|   |           newexm5_2_3.png
+|   |           newexm5_2_4.png
+|   |           newexm5_2_5.png
+|   |           newexm5_2_6.png
+|   |           newexm5_2_7.png
+|   |           newexm5_2_8.png
+|   |           newexm5_2_9.png
+|   |           newexm5_3_1.png
+|   |           newexm5_3_10.png
+|   |           newexm5_3_11.png
+|   |           newexm5_3_12.png
+|   |           newexm5_3_13.png
+|   |           newexm5_3_14.png
+|   |           newexm5_3_15.png
+|   |           newexm5_3_16.png
+|   |           newexm5_3_16_1.png
+|   |           newexm5_3_16_2.png
+|   |           newexm5_3_17.png
+|   |           newexm5_3_2.png
+|   |           newexm5_3_3.png
+|   |           newexm5_3_4.png
+|   |           newexm5_3_5.png
+|   |           newexm5_3_6.png
+|   |           newexm5_3_7.png
+|   |           newexm5_3_8.png
+|   |           newexm5_3_9.png
+|   |           newexm5_4_1.png
+|   |           newexm5_4_2.png
+|   |           newexm5_4_3.png
+|   |           newexm5_4_4.png
+|   |           
+|   +---chapter-6
+|   |   |   new_section1.ipynb
+|   |   |   section0.ipynb
+|   |   |   section1.ipynb
+|   |   |   section2.ipynb
+|   |   |   section3.ipynb
+|   |   |   section4.ipynb
+|   |   |   section5.ipynb
+|   |   |   
+|   |   \---graphics
+|   |           butterfly.JPG
+|   |           eg_1.png
+|   |           eg_10.png
+|   |           eg_10NEW.png
+|   |           eg_11.png
+|   |           eg_2.png
+|   |           eg_3.png
+|   |           eg_4.png
+|   |           eg_5.png
+|   |           eg_5NEW.png
+|   |           eg_6.png
+|   |           eg_7.png
+|   |           eg_8.png
+|   |           eg_9.png
+|   |           example6_1_1.png
+|   |           example6_1_2.png
+|   |           example6_1_3.png
+|   |           example6_1_4.png
+|   |           example6_1_5.png
+|   |           example6_2_1.png
+|   |           example6_2_2.png
+|   |           example_6_1_1.png
+|   |           exm_6_4_1.png
+|   |           exm_6_4_4.png
+|   |           
+|   +---chapter-7
+|   |   |   README.md
+|   |   |   section0.ipynb
+|   |   |   section1.ipynb
+|   |   |   section2.ipynb
+|   |   |   section3.ipynb
+|   |   |   section4.ipynb
+|   |   |   
+|   |   \---graphics
+|   |           example_sec7_1_1.png
+|   |           example_sec7_1_10.png
+|   |           example_sec7_1_11.png
+|   |           example_sec7_1_12.png
+|   |           example_sec7_1_13.png
+|   |           example_sec7_1_14.png
+|   |           example_sec7_1_15.png
+|   |           example_sec7_1_2.png
+|   |           example_sec7_1_3.png
+|   |           example_sec7_1_4.png
+|   |           example_sec7_1_5.png
+|   |           example_sec7_1_6.png
+|   |           example_sec7_1_7.png
+|   |           example_sec7_1_8.png
+|   |           example_sec7_1_9.png
+|   |           example_sec7_2_1.png
+|   |           example_sec7_2_2.png
+|   |           example_sec7_2_3.png
+|   |           example_sec7_3_1.png
+|   |           example_sec7_3_10.png
+|   |           example_sec7_3_11.png
+|   |           example_sec7_3_12.png
+|   |           example_sec7_3_13.png
+|   |           example_sec7_3_2.png
+|   |           example_sec7_3_3.png
+|   |           example_sec7_3_4.png
+|   |           example_sec7_3_5.png
+|   |           example_sec7_3_6.png
+|   |           example_sec7_3_7.png
+|   |           example_sec7_3_8.png
+|   |           example_sec7_3_9.png
+|   |           example_sec7_4_1.png
+|   |           example_sec7_4_2.png
+|   |           example_sec7_4_3.png
+|   |           example_sec7_4_4.png
+|   |           
+|   +---chapter-8
+|   |   |   section0.ipynb
+|   |   |   section1.ipynb
+|   |   |   section2.ipynb
+|   |   |   section3.ipynb
+|   |   |   section4.ipynb
+|   |   |   
+|   |   \---graphics
+|   |           example8_1_1.png
+|   |           example8_1_2.png
+|   |           example8_1_3.png
+|   |           example8_2_1_1.png
+|   |           example8_2_1_2.png
+|   |           example8_2_1_3.png
+|   |           example8_2_1_4.png
+|   |           example8_2_2.png
+|   |           example8_2_3.png
+|   |           example8_2_4_1.png
+|   |           example8_2_4_2.png
+|   |           example8_2_4_3.png
+|   |           example8_2_4_4.png
+|   |           example8_3_1.png
+|   |           example8_3_2.png
+|   |           example8_3_3.png
+|   |           
+|   +---chapter-9
+|   |   |   README.md
+|   |   |   section0.ipynb
+|   |   |   section1.ipynb
+|   |   |   section2.ipynb
+|   |   |   section3.ipynb
+|   |   |   section4.ipynb
+|   |   |   section5.ipynb
+|   |   |   section6.ipynb
+|   |   |   section7.ipynb
+|   |   |   section8.ipynb
+|   |   |   summary.ipynb
+|   |   |   
+|   |   +---graphics
+|   |   |       blueflower.png
+|   |   |       butterfly.JPG
+|   |   |       eg1.png
+|   |   |       eg6_10.png
+|   |   |       eg6_11.png
+|   |   |       eg6_1new.png
+|   |   |       eg6_2new.png
+|   |   |       eg6_3.png
+|   |   |       eg6_4_1.png
+|   |   |       eg6_4_2.png
+|   |   |       eg6_5.png
+|   |   |       eg6_6.png
+|   |   |       eg6_6new_1.png
+|   |   |       eg6_6new_2.png
+|   |   |       eg6_7.png
+|   |   |       eg6_8.png
+|   |   |       eg6_9_1.png
+|   |   |       eg6_9_2.png
+|   |   |       eg6_9_3.png
+|   |   |       eg6_9_4.png
+|   |   |       example01.png
+|   |   |       example02.png
+|   |   |       example1.png
+|   |   |       example10.png
+|   |   |       example10NEW_1.png
+|   |   |       example10NEW_2.png
+|   |   |       example10NEW_3.png
+|   |   |       example10NEW_4.png
+|   |   |       example11_1.png
+|   |   |       example11_2.png
+|   |   |       example11_3.png
+|   |   |       example13.png
+|   |   |       example14_1.png
+|   |   |       example14_2.png
+|   |   |       example14_3.png
+|   |   |       example15.png
+|   |   |       example16.png
+|   |   |       example17.png
+|   |   |       example18.png
+|   |   |       example2.png
+|   |   |       example3.png
+|   |   |       example4.png
+|   |   |       example5_1.png
+|   |   |       example5_2.png
+|   |   |       example6_1.png
+|   |   |       example6_2.png
+|   |   |       example6_3.png
+|   |   |       example6_4.png
+|   |   |       example6_5.png
+|   |   |       example7_1.png
+|   |   |       example7_2.png
+|   |   |       example7_3.png
+|   |   |       example7_4.png
+|   |   |       example8_1.png
+|   |   |       example8_2.png
+|   |   |       example9_1.png
+|   |   |       example9_2.png
+|   |   |       example9_3.png
+|   |   |       example9_4.png
+|   |   |       example_columns.png
+|   |   |       example_innertheme_circles.png
+|   |   |       example_innertheme_inmargin.png
+|   |   |       example_multicol.png
+|   |   |       example_sec2_1.png
+|   |   |       example_sec2_2.png
+|   |   |       example_sec2_3.png
+|   |   |       example_sec2_4.png
+|   |   |       example_sec2_4_0.png
+|   |   |       example_sec2_6.png
+|   |   |       example_sec2_7_0.png
+|   |   |       example_sec2_7_1.png
+|   |   |       example_sec2_8_0.png
+|   |   |       example_sec2_8_1.png
+|   |   |       magentaflower.png
+|   |   |       NEWexample01.png
+|   |   |       NEWexample02.png
+|   |   |       NEWexample03.png
+|   |   |       NEWexample04.png
+|   |   |       NEWexample05.png
+|   |   |       NEWexample06.png
+|   |   |       NEWexample06new.png
+|   |   |       NEWexample07.png
+|   |   |       NEWexample08.png
+|   |   |       NEWexample09.png
+|   |   |       NEWexample10_1.png
+|   |   |       NEWexample10_2.png
+|   |   |       NEWexample10_3.png
+|   |   |       NEWexample10_4.png
+|   |   |       NEWexample11_1.png
+|   |   |       NEWexample11_2.png
+|   |   |       NEWexample11_3.png
+|   |   |       NEWexample11_4.png
+|   |   |       NEWexample12_1.png
+|   |   |       NEWexample12_2.png
+|   |   |       NEWexample12_3.png
+|   |   |       NEWexample12_4.png
+|   |   |       NEWexample12_5.png
+|   |   |       NEWexample12_6.png
+|   |   |       NEWexample13_1.png
+|   |   |       NEWexample13_2.png
+|   |   |       NEWexample13_3.png
+|   |   |       NEWexample14_1.png
+|   |   |       NEWexample14_2.png
+|   |   |       NEWexample14_3.png
+|   |   |       NEWexample14_4.png
+|   |   |       NEWexample15_1.png
+|   |   |       NEWexample15_2.png
+|   |   |       NEWexample15_3.png
+|   |   |       NEWexample15_4.png
+|   |   |       NEWexample15_5.png
+|   |   |       NEWexample16_1.png
+|   |   |       NEWexample16_2.png
+|   |   |       NEWexample16_3.png
+|   |   |       NEWexample16_4.png
+|   |   |       NEWexample2_1.png
+|   |   |       NEWexample2_2.png
+|   |   |       NEWexample2_3.png
+|   |   |       NEWexample2_4.png
+|   |   |       NEWexample3_1.png
+|   |   |       NEWexample3_2.png
+|   |   |       NEWexample3_3.png
+|   |   |       NEWexample3_4.png
+|   |   |       NEWexample4_1.png
+|   |   |       NEWexample4_2.png
+|   |   |       NEWexample4_3.png
+|   |   |       NEWexample7_1.png
+|   |   |       NEWexample7_2.png
+|   |   |       NEWexample7_3.png
+|   |   |       NEWexample7_4.png
+|   |   |       redflower.png
+|   |   |       yellowflower.png
+|   |   |       
+|   |   \---tikz_graphics
+|   |           beamer_theme.pdf
+|   |           beamer_theme.png
+|   |           beamer_theme.tex
+|   |           insert_source_codes.pdf
+|   |           insert_source_codes.png
+|   |           insert_source_codes.tex
+|   |           other_themes.pdf
+|   |           other_themes.png
+|   |           other_themes.tex
+|   |           
+|   \---Latex_demo
+|           demo1.aux
+|           demo1.log
+|           demo1.pdf
+|           demo1.synctex.gz
+|           demo1.tex
+|           
++---save - Copy
+|   |   Model_compare.md
+|   |   
+|   +----Using-Python-for-mathematical-modeling
+|   |   |   README.md
+|   |   |   
+|   |   \----Using-Python-for-mathematical-modeling-master
+|   |       |   gates.csv
+|   |       |   input_data.csv
+|   |       |   tickets.csv
+|   |       |   数学建模.ipynb
+|   |       |   论文.pdf
+|   |       |   说明文档.txt
+|   |       |   
+|   |       \---.idea
+|   |               encodings.xml
+|   |               math_model.iml
+|   |               misc.xml
+|   |               modules.xml
+|   |               terminal.xml
+|   |               workspace.xml
+|   |               
+|   +---Mathematical-Modeling
+|   |   |   README.md
+|   |   |   
+|   |   +---.git
+|   |   |   |   config
+|   |   |   |   description
+|   |   |   |   HEAD
+|   |   |   |   index
+|   |   |   |   packed-refs
+|   |   |   |   
+|   |   |   +---hooks
+|   |   |   |       applypatch-msg.sample
+|   |   |   |       commit-msg.sample
+|   |   |   |       fsmonitor-watchman.sample
+|   |   |   |       post-update.sample
+|   |   |   |       pre-applypatch.sample
+|   |   |   |       pre-commit.sample
+|   |   |   |       pre-merge-commit.sample
+|   |   |   |       pre-push.sample
+|   |   |   |       pre-rebase.sample
+|   |   |   |       pre-receive.sample
+|   |   |   |       prepare-commit-msg.sample
+|   |   |   |       push-to-checkout.sample
+|   |   |   |       update.sample
+|   |   |   |       
+|   |   |   +---info
+|   |   |   |       exclude
+|   |   |   |       
+|   |   |   +---logs
+|   |   |   |   |   HEAD
+|   |   |   |   |   
+|   |   |   |   \---refs
+|   |   |   |       +---heads
+|   |   |   |       |       master
+|   |   |   |       |       
+|   |   |   |       \---remotes
+|   |   |   |           \---origin
+|   |   |   |                   HEAD
+|   |   |   |                   
+|   |   |   +---objects
+|   |   |   |   +---info
+|   |   |   |   \---pack
+|   |   |   |           pack-50a0bf4f4c57a2e791cc7c5df6b23c437ea62e92.idx
+|   |   |   |           pack-50a0bf4f4c57a2e791cc7c5df6b23c437ea62e92.pack
+|   |   |   |           
+|   |   |   \---refs
+|   |   |       +---heads
+|   |   |       |       master
+|   |   |       |       
+|   |   |       +---remotes
+|   |   |       |   \---origin
+|   |   |       |           HEAD
+|   |   |       |           
+|   |   |       \---tags
+|   |   +---LinearRegression
+|   |   |   |   code.log
+|   |   |   |   cotton.xlsx
+|   |   |   |   ipystata.ipynb
+|   |   |   |   milk_power.csv
+|   |   |   |   P2P网贷实例.ipynb
+|   |   |   |   raw_data.csv
+|   |   |   |   多元线性回归.ipynb
+|   |   |   |   拟合.ipynb
+|   |   |   |   练习.ipynb
+|   |   |   |   蒙特卡洛模拟内生性.ipynb
+|   |   |   |   论文.docx
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           ipystata-checkpoint.ipynb
+|   |   |           milk_power-checkpoint.csv
+|   |   |           P2P网贷实例-checkpoint.ipynb
+|   |   |           多元线性回归-checkpoint.ipynb
+|   |   |           拟合-checkpoint.ipynb
+|   |   |           练习-checkpoint.ipynb
+|   |   |           蒙特卡洛模拟内生性-checkpoint.ipynb
+|   |   |           
+|   |   +---SVD奇异值分解
+|   |   |   |   code1.ipynb
+|   |   |   |   heben.jpg
+|   |   |   |   qyqx.png
+|   |   |   |   千与千寻.jpg
+|   |   |   |   新闻联播.flv
+|   |   |   |   视频处理.ipynb
+|   |   |   |   赫本.jpg
+|   |   |   |   迅捷视频转换器转换后的新闻联播.mp4
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           code1-checkpoint.ipynb
+|   |   |           heben-checkpoint.jpg
+|   |   |           qyqx-checkpoint.png
+|   |   |           千与千寻-checkpoint.jpg
+|   |   |           视频处理-checkpoint.ipynb
+|   |   |           赫本-checkpoint.jpg
+|   |   |           
+|   |   +---TOPSIS
+|   |   |   |   river.csv
+|   |   |   |   TOPSIS代码.ipynb
+|   |   |   |   topsis论文.docx
+|   |   |   |   改进.ipynb
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           TOPSIS代码-checkpoint.ipynb
+|   |   |           改进-checkpoint.ipynb
+|   |   |           
+|   |   +---主成分分析
+|   |   |   |   code.ipynb
+|   |   |   |   cost_data.xlsx
+|   |   |   |   主成分论文.docx
+|   |   |   |   作业数据.xlsx
+|   |   |   |   整合.ipynb
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           code-checkpoint.ipynb
+|   |   |           整合-checkpoint.ipynb
+|   |   |           
+|   |   +---分类
+|   |   |   |   flower.xlsx
+|   |   |   |   fruit_data.xlsx
+|   |   |   |   mul_fruit.xlsx
+|   |   |   |   分类.ipynb
+|   |   |   |   分类论文.docx
+|   |   |   |   练习.ipynb
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           分类-checkpoint.ipynb
+|   |   |           练习-checkpoint.ipynb
+|   |   |           
+|   |   +---图论
+|   |   |   |   Untitled.ipynb
+|   |   |   |   weighted_graph.png
+|   |   |   |   图论.ipynb
+|   |   |   |   练习.ipynb
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           Untitled-checkpoint.ipynb
+|   |   |           weighted_graph-checkpoint.png
+|   |   |           图论-checkpoint.ipynb
+|   |   |           练习-checkpoint.ipynb
+|   |   |           
+|   |   +---层次分析法
+|   |   |   |   层次分析法代码.ipynb
+|   |   |   |   层次分析论文.docx
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           层次分析法代码-checkpoint.ipynb
+|   |   |           
+|   |   +---岭回归和LASSO
+|   |   |   |   cotton.xlsx
+|   |   |   |   岭回归和LASSO.ipynb
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           岭回归和LASSO-checkpoint.ipynb
+|   |   |           
+|   |   +---插值算法
+|   |   |   |   code.ipynb
+|   |   |   |   terrain.csv
+|   |   |   |   老哥练习.ipynb
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           code-checkpoint.ipynb
+|   |   |           terrain-checkpoint.csv
+|   |   |           老哥练习-checkpoint.ipynb
+|   |   |           
+|   |   +---数学规划模型
+|   |   |   |   线性规划.ipynb
+|   |   |   |   非线性规划.ipynb
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           线性规划-checkpoint.ipynb
+|   |   |           规划代码-checkpoint.ipynb
+|   |   |           非线性规划-checkpoint.ipynb
+|   |   |           
+|   |   +---时间序列分析
+|   |   |   |   sale_data.xlsx
+|   |   |   |   stock.csv
+|   |   |   |   stock.sav
+|   |   |   |   women_dress.csv
+|   |   |   |   时间序列分析.ipynb
+|   |   |   |   练习.ipynb
+|   |   |   |   论文.docx
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           women_dress-checkpoint.csv
+|   |   |           时间序列分析-checkpoint.ipynb
+|   |   |           练习-checkpoint.ipynb
+|   |   |           
+|   |   +---灰色关联分析
+|   |   |   |   gdp.csv
+|   |   |   |   river.csv
+|   |   |   |   灰色关联分析代码.ipynb
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           灰色关联分析代码-checkpoint.ipynb
+|   |   |           
+|   |   +---灰色预测
+|   |   |   |   code.ipynb
+|   |   |   |   cotton.xlsx
+|   |   |   |   data.xlsx
+|   |   |   |   代码改进.ipynb
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           code-checkpoint.ipynb
+|   |   |           代码改进-checkpoint.ipynb
+|   |   |           
+|   |   +---相关性分析
+|   |   |   |   eighth_girl.xlsx
+|   |   |   |   eigth_boy.xls
+|   |   |   |   p_val_pearson.csv
+|   |   |   |   p_val_spearman.csv
+|   |   |   |   相关性分析.ipynb
+|   |   |   |   相关性分析论文.docx
+|   |   |   |   练习.ipynb
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           相关性分析-checkpoint.ipynb
+|   |   |           练习-checkpoint.ipynb
+|   |   |           
+|   |   +---聚类
+|   |   |   |   cost_data.xlsx
+|   |   |   |   data.txt
+|   |   |   |   forest.csv
+|   |   |   |   mydata.mat
+|   |   |   |   tmp
+|   |   |   |   tmp.png
+|   |   |   |   练习.ipynb
+|   |   |   |   聚类.ipynb
+|   |   |   |   聚类论文.docx
+|   |   |   |   
+|   |   |   \---.ipynb_checkpoints
+|   |   |           forest-checkpoint.csv
+|   |   |           tmp-checkpoint.png
+|   |   |           练习-checkpoint.ipynb
+|   |   |           聚类-checkpoint.ipynb
+|   |   |           
+|   |   \---蒙特卡洛
+|   |       |   导弹追踪.ipynb
+|   |       |   引例--投针、三门.ipynb
+|   |       |   排队服务.ipynb
+|   |       |   旅行商问题.ipynb
+|   |       |   有约束规划.ipynb
+|   |       |   
+|   |       \---.ipynb_checkpoints
+|   |               导弹追踪-checkpoint.ipynb
+|   |               引例--投针、三门-checkpoint.ipynb
+|   |               排队服务-checkpoint.ipynb
+|   |               旅行商问题-checkpoint.ipynb
+|   |               有约束规划-checkpoint.ipynb
+|   |               
+|   +---Mathematical-Modeling-In-Python
+|   |   |   .gitattributes
+|   |   |   01 线性规划.ipynb
+|   |   |   02 整数规划.ipynb
+|   |   |   03 非线性规划.ipynb
+|   |   |   04 图与网络模型及方法.ipynb
+|   |   |   05 插值与拟合.ipynb
+|   |   |   07 数理统计.ipynb
+|   |   |   08 时间序列.ipynb
+|   |   |   09 支持向量机.ipynb
+|   |   |   10.1 聚类分析.ipynb
+|   |   |   10.2 主成分分析.ipynb
+|   |   |   10.3 因子分析.ipynb
+|   |   |   10.4 判别分析.ipynb
+|   |   |   10.5 典型相关分析.ipynb
+|   |   |   10.7 多维标度法.ipynb
+|   |   |   11 偏最小二乘回归分析.ipynb
+|   |   |   12.1 模拟退火算法.ipynb
+|   |   |   12.2 遗传算法.ipynb
+|   |   |   12.D 遗传算法初步结果.txt
+|   |   |   12.D 飞机侦察地理坐标数据.txt
+|   |   |   14.1 理想解法.ipynb
+|   |   |   14.2 模糊综合评判法.ipynb
+|   |   |   14.3 数据包络分析.ipynb
+|   |   |   14.4 灰色关联分析法.ipynb
+|   |   |   14.5 主成分分析法.ipynb
+|   |   |   14.6 秩和比综合评价法.ipynb
+|   |   |   14.D 供应商选择决策.txt
+|   |   |   14.D 医院工作质量统计指标.txt
+|   |   |   14.D 多层次模糊综合评判数据.txt
+|   |   |   14.D 宏观投资效益.txt
+|   |   |   15.1 微分方程模型.ipynb
+|   |   |   15.2 灰色预测模型.ipynb
+|   |   |   15.3 差分方程.ipynb
+|   |   |   15.4 马尔可夫预测.ipynb
+|   |   |   15.5 时间序列.ipynb
+|   |   |   15.6 插值与拟合.ipynb
+|   |   |   15.7 神经元网络.ipynb
+|   |   |   15.D 导弹.txt
+|   |   |   15.D 水库年径流与因子特征.txt
+|   |   |   16 目标规划.ipynb
+|   |   |   CS299_MDP.ipynb
+|   |   |   GMM.ipynb
+|   |   |   LICENSE
+|   |   |   MPLClassifier.ipynb
+|   |   |   README.md
+|   |   |   SVM_data.txt
+|   |   |   遗传算法初步结果.txt
+|   |   |   高斯过程回归.ipynb
+|   |   |   
+|   |   \---.git
+|   |       |   config
+|   |       |   description
+|   |       |   HEAD
+|   |       |   index
+|   |       |   packed-refs
+|   |       |   
+|   |       +---hooks
+|   |       |       applypatch-msg.sample
+|   |       |       commit-msg.sample
+|   |       |       fsmonitor-watchman.sample
+|   |       |       post-update.sample
+|   |       |       pre-applypatch.sample
+|   |       |       pre-commit.sample
+|   |       |       pre-merge-commit.sample
+|   |       |       pre-push.sample
+|   |       |       pre-rebase.sample
+|   |       |       pre-receive.sample
+|   |       |       prepare-commit-msg.sample
+|   |       |       push-to-checkout.sample
+|   |       |       update.sample
+|   |       |       
+|   |       +---info
+|   |       |       exclude
+|   |       |       
+|   |       +---logs
+|   |       |   |   HEAD
+|   |       |   |   
+|   |       |   \---refs
+|   |       |       +---heads
+|   |       |       |       master
+|   |       |       |       
+|   |       |       \---remotes
+|   |       |           \---origin
+|   |       |                   HEAD
+|   |       |                   
+|   |       +---objects
+|   |       |   +---info
+|   |       |   \---pack
+|   |       |           pack-f942f1a622c928b9e400440d51db41b540938da7.idx
+|   |       |           pack-f942f1a622c928b9e400440d51db41b540938da7.pack
+|   |       |           
+|   |       \---refs
+|   |           +---heads
+|   |           |       master
+|   |           |       
+|   |           +---remotes
+|   |           |   \---origin
+|   |           |           HEAD
+|   |           |           
+|   |           \---tags
+|   +---MathModel-Pretrain
+|   |   |   README.md
+|   |   |   README_OLD.md
+|   |   |   
+|   |   +---.git
+|   |   |   |   config
+|   |   |   |   description
+|   |   |   |   HEAD
+|   |   |   |   index
+|   |   |   |   packed-refs
+|   |   |   |   
+|   |   |   +---hooks
+|   |   |   |       applypatch-msg.sample
+|   |   |   |       commit-msg.sample
+|   |   |   |       fsmonitor-watchman.sample
+|   |   |   |       post-update.sample
+|   |   |   |       pre-applypatch.sample
+|   |   |   |       pre-commit.sample
+|   |   |   |       pre-merge-commit.sample
+|   |   |   |       pre-push.sample
+|   |   |   |       pre-rebase.sample
+|   |   |   |       pre-receive.sample
+|   |   |   |       prepare-commit-msg.sample
+|   |   |   |       push-to-checkout.sample
+|   |   |   |       update.sample
+|   |   |   |       
+|   |   |   +---info
+|   |   |   |       exclude
+|   |   |   |       
+|   |   |   +---logs
+|   |   |   |   |   HEAD
+|   |   |   |   |   
+|   |   |   |   \---refs
+|   |   |   |       +---heads
+|   |   |   |       |       master
+|   |   |   |       |       
+|   |   |   |       \---remotes
+|   |   |   |           \---origin
+|   |   |   |                   HEAD
+|   |   |   |                   
+|   |   |   +---objects
+|   |   |   |   +---info
+|   |   |   |   \---pack
+|   |   |   |           pack-a26622037cae41794140bfdcd8053b1dd4bb965d.idx
+|   |   |   |           pack-a26622037cae41794140bfdcd8053b1dd4bb965d.pack
+|   |   |   |           
+|   |   |   \---refs
+|   |   |       +---heads
+|   |   |       |       master
+|   |   |       |       
+|   |   |       +---remotes
+|   |   |       |   \---origin
+|   |   |       |           HEAD
+|   |   |       |           
+|   |   |       \---tags
+|   |   +---code
+|   |   |   +---tmp
+|   |   |   |   +---matplotlib
+|   |   |   |   |   |   matplotlib-beginner.ipynb
+|   |   |   |   |   |   README.md
+|   |   |   |   |   |   
+|   |   |   |   |   \---examples
+|   |   |   |   |           spx.csv
+|   |   |   |   |           
+|   |   |   |   +---numpy
+|   |   |   |   |   |   numpy-beginner.ipynb
+|   |   |   |   |   |   README.md
+|   |   |   |   |   |   
+|   |   |   |   |   \---images
+|   |   |   |   |           1.png
+|   |   |   |   |           2.png
+|   |   |   |   |           3.png
+|   |   |   |   |           4.png
+|   |   |   |   |           
+|   |   |   |   +---pandas
+|   |   |   |   |   |   README.md
+|   |   |   |   |   |   
+|   |   |   |   |   +---10-Minutes-to-pandas
+|   |   |   |   |   |   |   10 Minutes to pandas.ipynb
+|   |   |   |   |   |   |   README.md
+|   |   |   |   |   |   |   
+|   |   |   |   |   |   +---.ipynb_checkpoints
+|   |   |   |   |   |   |       10 Minutes to pandas-checkpoint.ipynb
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   \---data
+|   |   |   |   |   |           foo.csv
+|   |   |   |   |   |           foo.h5
+|   |   |   |   |   |           foo.xlsx
+|   |   |   |   |   |           
+|   |   |   |   |   +---pandas_beginner
+|   |   |   |   |   |   |   pandas_beginner.ipynb
+|   |   |   |   |   |   |   README.md
+|   |   |   |   |   |   |   student.csv
+|   |   |   |   |   |   |   
+|   |   |   |   |   |   \---.ipynb_checkpoints
+|   |   |   |   |   |           pandas_beginner-checkpoint.ipynb
+|   |   |   |   |   |           
+|   |   |   |   |   \---Pandas_Exercises
+|   |   |   |   |           README.md
+|   |   |   |   |           
+|   |   |   |   +---seaborn
+|   |   |   |   |   |   README.md
+|   |   |   |   |   |   Searborn.ipynb
+|   |   |   |   |   |   
+|   |   |   |   |   \---.ipynb_checkpoints
+|   |   |   |   |           Searborn-checkpoint.ipynb
+|   |   |   |   |           
+|   |   |   |   +---案例
+|   |   |   |   |   \---covid19
+|   |   |   |   |       |   README.md
+|   |   |   |   |       |   
+|   |   |   |   |       +---code
+|   |   |   |   |       |   |   coronavirus-covid-19-visualization-prediction.ipynb
+|   |   |   |   |       |   |   COVID-19_ EDA with recent update on April.ipynb
+|   |   |   |   |       |   |   
+|   |   |   |   |       |   \---.ipynb_checkpoints
+|   |   |   |   |       |           coronavirus-covid-19-visualization-prediction-checkpoint.ipynb
+|   |   |   |   |       |           COVID-19_ EDA with recent update on April-checkpoint.ipynb
+|   |   |   |   |       |           
+|   |   |   |   |       \---input
+|   |   |   |   |           \---covid19
+|   |   |   |   |                   submission.csv
+|   |   |   |   |                   test.csv
+|   |   |   |   |                   train.csv
+|   |   |   |   |                   usa_states.csv
+|   |   |   |   |                   usa_states2.csv
+|   |   |   |   |                   
+|   |   |   |   \---神经网络
+|   |   |   |       |   README.md
+|   |   |   |       |   
+|   |   |   |       \---pytorch-tutorial-master
+|   |   |   |           |   .gitignore
+|   |   |   |           |   LICENSE
+|   |   |   |           |   README.md
+|   |   |   |           |   
+|   |   |   |           +---logo
+|   |   |   |           |       pytorch_logo.png
+|   |   |   |           |       pytorch_logo_2018.svg
+|   |   |   |           |       
+|   |   |   |           \---tutorials
+|   |   |   |               +---01-basics
+|   |   |   |               |   +---feedforward_neural_network
+|   |   |   |               |   |       main.py
+|   |   |   |               |   |       
+|   |   |   |               |   +---linear_regression
+|   |   |   |               |   |       main.py
+|   |   |   |               |   |       
+|   |   |   |               |   +---logistic_regression
+|   |   |   |               |   |       main.py
+|   |   |   |               |   |       
+|   |   |   |               |   \---pytorch_basics
+|   |   |   |               |           main.ipynb
+|   |   |   |               |           main.py
+|   |   |   |               |           
+|   |   |   |               +---02-intermediate
+|   |   |   |               |   +---bidirectional_recurrent_neural_network
+|   |   |   |               |   |       main.py
+|   |   |   |               |   |       
+|   |   |   |               |   +---convolutional_neural_network
+|   |   |   |               |   |       main.py
+|   |   |   |               |   |       
+|   |   |   |               |   +---deep_residual_network
+|   |   |   |               |   |       main.py
+|   |   |   |               |   |       
+|   |   |   |               |   +---language_model
+|   |   |   |               |   |       data_utils.py
+|   |   |   |               |   |       main.py
+|   |   |   |               |   |       
+|   |   |   |               |   \---recurrent_neural_network
+|   |   |   |               |           main.py
+|   |   |   |               |           
+|   |   |   |               +---03-advanced
+|   |   |   |               |   +---generative_adversarial_network
+|   |   |   |               |   |       main.py
+|   |   |   |               |   |       
+|   |   |   |               |   +---image_captioning
+|   |   |   |               |   |   |   build_vocab.py
+|   |   |   |               |   |   |   data_loader.py
+|   |   |   |               |   |   |   download.sh
+|   |   |   |               |   |   |   model.py
+|   |   |   |               |   |   |   README.md
+|   |   |   |               |   |   |   requirements.txt
+|   |   |   |               |   |   |   resize.py
+|   |   |   |               |   |   |   sample.py
+|   |   |   |               |   |   |   train.py
+|   |   |   |               |   |   |   
+|   |   |   |               |   |   \---png
+|   |   |   |               |   |           example.png
+|   |   |   |               |   |           image_captioning.png
+|   |   |   |               |   |           model.png
+|   |   |   |               |   |           
+|   |   |   |               |   +---neural_style_transfer
+|   |   |   |               |   |   |   main.py
+|   |   |   |               |   |   |   README.md
+|   |   |   |               |   |   |   requirements.txt
+|   |   |   |               |   |   |   
+|   |   |   |               |   |   \---png
+|   |   |   |               |   |           content.png
+|   |   |   |               |   |           neural_style.png
+|   |   |   |               |   |           neural_style2.png
+|   |   |   |               |   |           style.png
+|   |   |   |               |   |           style2.png
+|   |   |   |               |   |           style3.png
+|   |   |   |               |   |           style4.png
+|   |   |   |               |   |           
+|   |   |   |               |   \---variational_autoencoder
+|   |   |   |               |           main.py
+|   |   |   |               |           
+|   |   |   |               \---04-utils
+|   |   |   |                   \---tensorboard
+|   |   |   |                       |   logger.py
+|   |   |   |                       |   main.py
+|   |   |   |                       |   README.md
+|   |   |   |                       |   requirements.txt
+|   |   |   |                       |   
+|   |   |   |                       \---gif
+|   |   |   |                               tensorboard.gif
+|   |   |   |                               
+|   |   |   \---历年赛题
+|   |   |       \---2020年B题--汽油辛烷值建模
+|   |   |           +---1(有论文
+|   |   |           |   |   paper.pdf
+|   |   |           |   |   对汽油辛烷值的多变量预测和优化.pdf
+|   |   |           |   |   
+|   |   |           |   \---code
+|   |   |           |       |   285.csv
+|   |   |           |       |   313.csv
+|   |   |           |       |   data_analyze.ipynb
+|   |   |           |       |   first_it.pdf
+|   |   |           |       |   helloworld.py
+|   |   |           |       |   ml_pipeline.drawio
+|   |   |           |       |   opt2.drawio
+|   |   |           |       |   PCA_ICA.ipynb
+|   |   |           |       |   pipeline.ipynb
+|   |   |           |       |   processed.csv
+|   |   |           |       |   raw_data.csv
+|   |   |           |       |   requirements.txt
+|   |   |           |       |   RON_loss.txt
+|   |   |           |       |   second_it.pdf
+|   |   |           |       |   五题关键代码1.txt
+|   |   |           |       |   五题关键代码2.txt
+|   |   |           |       |   附件一：325个样本数据.xlsx
+|   |   |           |       |   
+|   |   |           |       \---train_lgbm
+|   |   |           |               log.txt
+|   |   |           |               RON_loss_abnormal.pdf
+|   |   |           |               RON_loss_abnormal.png
+|   |   |           |               RON_loss_cross-validation.pdf
+|   |   |           |               RON_loss_cross-validation.png
+|   |   |           |               RON_loss_data.csv
+|   |   |           |               RON_loss_model.bz2
+|   |   |           |               S_cross-validation.pdf
+|   |   |           |               S_cross-validation.png
+|   |   |           |               S_data.csv
+|   |   |           |               S_model.bz2
+|   |   |           |               train_lgbm.py
+|   |   |           |               
+|   |   |           +---2
+|   |   |           |   \---MathModeling2020-master
+|   |   |           |       |   .gitignore
+|   |   |           |       |   data_processing.py
+|   |   |           |       |   modeling.py
+|   |   |           |       |   optimization.py
+|   |   |           |       |   requirements.txt
+|   |   |           |       |   scatter.py
+|   |   |           |       |   statistic.py
+|   |   |           |       |   util.py
+|   |   |           |       |   
+|   |   |           |       \---jrb
+|   |   |           |               data.xlsx
+|   |   |           |               model.py
+|   |   |           |               pca.py
+|   |   |           |               pick.py
+|   |   |           |               requirements.txt
+|   |   |           |               x.xlsx
+|   |   |           |               y.xlsx
+|   |   |           |               
+|   |   |           \---题目&数据
+|   |   |                   ~$二：样本确定方法.docx
+|   |   |                   ~$辛烷值优化建模.docx
+|   |   |                   汽油辛烷值优化建模.docx
+|   |   |                   附件一：325个样本数据.xlsx
+|   |   |                   附件三：285号和313号样本原始数据.xlsx
+|   |   |                   附件二：样本确定方法.docx
+|   |   |                   附件四：354个操作变量信息.xlsx
+|   |   |                   
+|   |   +---实用工具
+|   |   |       README.md
+|   |   |       不用code的网站.md
+|   |   |       
+|   |   +---建模算法
+|   |   |   |   数学建模 四大模型总结 - 百度文库.pdf
+|   |   |   |   
+|   |   |   +---Dijkstra
+|   |   |   |       dijkstra.py
+|   |   |   |       question1.1.ipynb
+|   |   |   |       question1.2.ipynb
+|   |   |   |       附件1：数据集1-终稿.xlsx
+|   |   |   |       附件2：数据集2-终稿.xlsx
+|   |   |   |       
+|   |   |   +---logistic_similar
+|   |   |   |       logstic_similar.md
+|   |   |   |       logstic_similar.py
+|   |   |   |       
+|   |   |   +---lstm
+|   |   |   |       data.csv
+|   |   |   |       data.net_params.pkl
+|   |   |   |       lstm.py
+|   |   |   |       
+|   |   |   +---pipline
+|   |   |   |       mlFlow.ipynb
+|   |   |   |       
+|   |   |   +---可视化
+|   |   |   |       可视化以恐怖袭击为例.ipynb
+|   |   |   |       
+|   |   |   +---回归
+|   |   |   |   \---线性回归
+|   |   |   |       |   boston.ipynb
+|   |   |   |       |   pytorch_linear_distributed.py
+|   |   |   |       |   线性回归.md
+|   |   |   |       |   
+|   |   |   |       \---.ipynb_checkpoints
+|   |   |   |               boston-checkpoint.ipynb
+|   |   |   |               pytorch_linear_distributed-checkpoint.py
+|   |   |   |               线性回归-checkpoint.md
+|   |   |   |               
+|   |   |   +---灰色关联度分析
+|   |   |   |       GRA.py
+|   |   |   |       wine.csv
+|   |   |   |       灰色关联度分析.md
+|   |   |   |       
+|   |   |   +---约束优化
+|   |   |   |   |   gurobi.ipynb
+|   |   |   |   |   gurobi求解器.md
+|   |   |   |   |   贪心.ipynb
+|   |   |   |   |   
+|   |   |   |   \---.ipynb_checkpoints
+|   |   |   |           gurobi-checkpoint.ipynb
+|   |   |   |           gurobi求解器-checkpoint.md
+|   |   |   |           
+|   |   |   +---组合赋权法
+|   |   |   |       AHP.py
+|   |   |   |       组合赋权.md
+|   |   |   |       
+|   |   |   +---缺失值插补
+|   |   |   |       imputer.ipynb
+|   |   |   |       imputer.py
+|   |   |   |       插补.md
+|   |   |   |       
+|   |   |   +---聚类
+|   |   |   |   \---划分聚类
+|   |   |   |           wkmeans.md
+|   |   |   |           wkmeans.py
+|   |   |   |           
+|   |   |   +---降维
+|   |   |   |   |   factor_analyze.py
+|   |   |   |   |   pca_analyze.py
+|   |   |   |   |   terrorism.ipynb
+|   |   |   |   |   因子分析法.md
+|   |   |   |   |   
+|   |   |   |   +---.ipynb_checkpoints
+|   |   |   |   |       pca_analyze-checkpoint.py
+|   |   |   |   |       
+|   |   |   |   \---picture
+|   |   |   |           因子分析法1.png
+|   |   |   |           因子分析法10.png
+|   |   |   |           因子分析法2.png
+|   |   |   |           因子分析法3.png
+|   |   |   |           因子分析法4.png
+|   |   |   |           因子分析法5.png
+|   |   |   |           因子分析法6.png
+|   |   |   |           因子分析法7.png
+|   |   |   |           因子分析法8.png
+|   |   |   |           因子分析法9.png
+|   |   |   |           
+|   |   |   +---集成学习
+|   |   |   |   |   classify_regression_visual.ipynb
+|   |   |   |   |   集成学习.md
+|   |   |   |   |   
+|   |   |   |   \---.ipynb_checkpoints
+|   |   |   |           classify_regression_visual-checkpoint.ipynb
+|   |   |   |           
+|   |   |   \---预测
+|   |   |       |   ym_num.csv
+|   |   |       |   
+|   |   |       +---kaggle预测题
+|   |   |       |       Rossmann_Store_Sales.ipynb
+|   |   |       |       
+|   |   |       +---整合移动平均自回归(ARIMA)
+|   |   |       |   |   ARIMA.ipynb
+|   |   |       |   |   ARIMA.md
+|   |   |       |   |   arima.py
+|   |   |       |   |   
+|   |   |       |   \---.ipynb_checkpoints
+|   |   |       |           ARIMA-checkpoint
+|   |   |       |           ARIMA-checkpoint.ipynb
+|   |   |       |           
+|   |   |       \---灰色预测
+|   |   |           |   gm.py
+|   |   |           |   灰色预测&线性回归&函数拟合.ipynb
+|   |   |           |   灰色预测.md
+|   |   |           |   
+|   |   |           \---.ipynb_checkpoints
+|   |   |                   灰色预测&线性回归&函数拟合-checkpoint.ipynb
+|   |   |                   灰色预测-checkpoint.md
+|   |   |                   
+|   |   +---数模之星
+|   |   |       D题-上海大学-答辩PPT.pptx
+|   |   |       D题-上海大学-论文.pdf
+|   |   |       
+|   |   +---杂七杂八
+|   |   |       README.md
+|   |   |       Scikit-learn使用总结.pdf
+|   |   |       建模交流-zxm.pdf
+|   |   |       建模交流_sw.pdf
+|   |   |       研究生数模国赛报告.pdf
+|   |   |       谈谈“竞赛套路化”问题.pdf
+|   |   |       
+|   |   \---论文模板
+|   |           2021数模论文模板 - 备份.doc
+|   |           README.md
+|   |           
+|   +---PythonFunctions
+|   |   |   Demo.ipynb
+|   |   |   README.md
+|   |   |   
+|   |   +---.git
+|   |   |   |   config
+|   |   |   |   description
+|   |   |   |   HEAD
+|   |   |   |   index
+|   |   |   |   packed-refs
+|   |   |   |   
+|   |   |   +---hooks
+|   |   |   |       applypatch-msg.sample
+|   |   |   |       commit-msg.sample
+|   |   |   |       fsmonitor-watchman.sample
+|   |   |   |       post-update.sample
+|   |   |   |       pre-applypatch.sample
+|   |   |   |       pre-commit.sample
+|   |   |   |       pre-merge-commit.sample
+|   |   |   |       pre-push.sample
+|   |   |   |       pre-rebase.sample
+|   |   |   |       pre-receive.sample
+|   |   |   |       prepare-commit-msg.sample
+|   |   |   |       push-to-checkout.sample
+|   |   |   |       update.sample
+|   |   |   |       
+|   |   |   +---info
+|   |   |   |       exclude
+|   |   |   |       
+|   |   |   +---logs
+|   |   |   |   |   HEAD
+|   |   |   |   |   
+|   |   |   |   \---refs
+|   |   |   |       +---heads
+|   |   |   |       |       master
+|   |   |   |       |       
+|   |   |   |       \---remotes
+|   |   |   |           \---origin
+|   |   |   |                   HEAD
+|   |   |   |                   
+|   |   |   +---objects
+|   |   |   |   +---info
+|   |   |   |   \---pack
+|   |   |   |           pack-a7d9324b5be601c470950879ab2c93f1ef36a98f.idx
+|   |   |   |           pack-a7d9324b5be601c470950879ab2c93f1ef36a98f.pack
+|   |   |   |           
+|   |   |   \---refs
+|   |   |       +---heads
+|   |   |       |       master
+|   |   |       |       
+|   |   |       +---remotes
+|   |   |       |   \---origin
+|   |   |       |           HEAD
+|   |   |       |           
+|   |   |       \---tags
+|   |   +---ARIMA
+|   |   |       ARIMA.py
+|   |   |       Demo.ipynb
+|   |   |       README.md
+|   |   |       
+|   |   +---BaiduImageDownload
+|   |   |       Demo.ipynb
+|   |   |       Download.py
+|   |   |       example.png
+|   |   |       README.md
+|   |   |       
+|   |   +---GM11
+|   |   |       Demo.ipynb
+|   |   |       GM11.py
+|   |   |       README.md
+|   |   |       
+|   |   \---MoranI
+|   |           Demo.ipynb
+|   |           MoranI.py
+|   |           README.md
+|   |           莫兰散点图.png
+|   |           
+|   \---supermodeling
+|       |   2019美国中学生数学建模竞赛指导.pdf
+|       |   README.md
+|       |   
+|       +---.git
+|       |   |   config
+|       |   |   description
+|       |   |   HEAD
+|       |   |   index
+|       |   |   packed-refs
+|       |   |   
+|       |   +---hooks
+|       |   |       applypatch-msg.sample
+|       |   |       commit-msg.sample
+|       |   |       fsmonitor-watchman.sample
+|       |   |       post-update.sample
+|       |   |       pre-applypatch.sample
+|       |   |       pre-commit.sample
+|       |   |       pre-merge-commit.sample
+|       |   |       pre-push.sample
+|       |   |       pre-rebase.sample
+|       |   |       pre-receive.sample
+|       |   |       prepare-commit-msg.sample
+|       |   |       push-to-checkout.sample
+|       |   |       update.sample
+|       |   |       
+|       |   +---info
+|       |   |       exclude
+|       |   |       
+|       |   +---logs
+|       |   |   |   HEAD
+|       |   |   |   
+|       |   |   \---refs
+|       |   |       +---heads
+|       |   |       |       master
+|       |   |       |       
+|       |   |       \---remotes
+|       |   |           \---origin
+|       |   |                   HEAD
+|       |   |                   
+|       |   +---objects
+|       |   |   +---info
+|       |   |   \---pack
+|       |   |           pack-22b65770ac92dd647a4f92bbf76d1f5c6be9c9a0.idx
+|       |   |           pack-22b65770ac92dd647a4f92bbf76d1f5c6be9c9a0.pack
+|       |   |           
+|       |   \---refs
+|       |       +---heads
+|       |       |       master
+|       |       |       
+|       |       +---remotes
+|       |       |   \---origin
+|       |       |           HEAD
+|       |       |           
+|       |       \---tags
+|       +---国赛
+|       |   |   CUMCM参考模板by 超级数学建模（supermodeling）.pdf
+|       |   |   readme.txt
+|       |   |   团队组建及文章剖析.pdf
+|       |   |   
+|       |   +---2002
+|       |   |   +---A
+|       |   |   |   +---paper
+|       |   |   |   |       02a01.pdf
+|       |   |   |   |       02a02.pdf
+|       |   |   |   |       02a03.pdf
+|       |   |   |   |       02a04.pdf
+|       |   |   |   |       02a05.pdf
+|       |   |   |   |       02a06.pdf
+|       |   |   |   |       02a07.pdf
+|       |   |   |   |       02a08.pdf
+|       |   |   |   |       02a09.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           a.pdf
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   +---paper
+|       |   |   |   |       02b01.pdf
+|       |   |   |   |       02b02.pdf
+|       |   |   |   |       02b03.pdf
+|       |   |   |   |       02b04.pdf
+|       |   |   |   |       02b05.pdf
+|       |   |   |   |       02b06.pdf
+|       |   |   |   |       02b07.pdf
+|       |   |   |   |       02b08.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           b.pdf
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   \---topic
+|       |   |   |           c.pdf
+|       |   |   |           
+|       |   |   \---D
+|       |   |       +---paper
+|       |   |       |       02d01.pdf
+|       |   |       |       02d02.pdf
+|       |   |       |       02d03.pdf
+|       |   |       |       
+|       |   |       \---topic
+|       |   |               d.pdf
+|       |   |               
+|       |   +---2003
+|       |   |   +---A
+|       |   |   |   +---paper
+|       |   |   |   |       03a01.pdf
+|       |   |   |   |       03a02.pdf
+|       |   |   |   |       03a03.pdf
+|       |   |   |   |       03a04.pdf
+|       |   |   |   |       03a05.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           a.pdf
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   +---paper
+|       |   |   |   |       03b01.pdf
+|       |   |   |   |       03b02.pdf
+|       |   |   |   |       03b03.pdf
+|       |   |   |   |       03b04.pdf
+|       |   |   |   |       03b05.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           b.pdf
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   \---topic
+|       |   |   |           c.pdf
+|       |   |   |           
+|       |   |   \---D
+|       |   |       +---paper
+|       |   |       |       03d01.pdf
+|       |   |       |       03d02.pdf
+|       |   |       |       03d03.pdf
+|       |   |       |       03d04.pdf
+|       |   |       |       
+|       |   |       \---topic
+|       |   |               d.pdf
+|       |   |               
+|       |   +---2004
+|       |   |   +---A
+|       |   |   |   \---topic
+|       |   |   |           a.pdf
+|       |   |   |           a_data.rar
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   \---topic
+|       |   |   |           b.pdf
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   \---topic
+|       |   |   |           c.pdf
+|       |   |   |           
+|       |   |   \---D
+|       |   |       \---topic
+|       |   |               d.pdf
+|       |   |               
+|       |   +---2005
+|       |   |   +---A
+|       |   |   |   \---topic
+|       |   |   |           a.pdf
+|       |   |   |           a_data.rar
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   \---topic
+|       |   |   |           b.pdf
+|       |   |   |           b_data.xls
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   \---topic
+|       |   |   |           c.pdf
+|       |   |   |           c_data.rar
+|       |   |   |           
+|       |   |   \---D
+|       |   |       \---topic
+|       |   |               d.pdf
+|       |   |               d_data.xls
+|       |   |               
+|       |   +---2006
+|       |   |   +---A
+|       |   |   |   \---topic
+|       |   |   |           a.pdf
+|       |   |   |           a_data.rar
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   \---topic
+|       |   |   |           b.pdf
+|       |   |   |           b_data.rar
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   \---topic
+|       |   |   |           c.pdf
+|       |   |   |           
+|       |   |   \---D
+|       |   |       \---topic
+|       |   |               d.pdf
+|       |   |               d_data.rar
+|       |   |               
+|       |   +---2007
+|       |   |   +---A
+|       |   |   |   \---topic
+|       |   |   |           a.pdf
+|       |   |   |           a_data.rar
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   \---topic
+|       |   |   |           b.pdf
+|       |   |   |           b_data.rar
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   \---topic
+|       |   |   |           c.pdf
+|       |   |   |           c_data.rar
+|       |   |   |           
+|       |   |   \---D
+|       |   |       \---topic
+|       |   |               d.pdf
+|       |   |               
+|       |   +---2008
+|       |   |   |   readme.txt
+|       |   |   |   
+|       |   |   +---A
+|       |   |   |   \---topic
+|       |   |   |           a.pdf
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   \---topic
+|       |   |   |           b.pdf
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   \---topic
+|       |   |   |           c.pdf
+|       |   |   |           
+|       |   |   \---D
+|       |   |       \---topic
+|       |   |               d.pdf
+|       |   |               d_data.doc
+|       |   |               
+|       |   +---2009
+|       |   |   |   readme.txt
+|       |   |   |   
+|       |   |   +---A
+|       |   |   |   \---topic
+|       |   |   |           a.pdf
+|       |   |   |           a_data.xls
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   \---topic
+|       |   |   |           b.pdf
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   \---topic
+|       |   |   |           c.pdf
+|       |   |   |           
+|       |   |   \---D
+|       |   |       \---topic
+|       |   |               d.pdf
+|       |   |               
+|       |   +---2010
+|       |   |   |   readme.txt
+|       |   |   |   
+|       |   |   +---A
+|       |   |   |   \---topic
+|       |   |   |           a.pdf
+|       |   |   |           问题A附件1：实验采集数据表.xls
+|       |   |   |           问题A附件2：实际采集数据表.xls
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   \---topic
+|       |   |   |           b.pdf
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   \---topic
+|       |   |   |           c.pdf
+|       |   |   |           
+|       |   |   \---D
+|       |   |       \---topic
+|       |   |               d.pdf
+|       |   |               
+|       |   +---2011
+|       |   |   |   readme.txt
+|       |   |   |   
+|       |   |   +---A
+|       |   |   |   \---topic
+|       |   |   |           a.pdf
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   \---topic
+|       |   |   |           b.pdf
+|       |   |   |           b_data.xls
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   \---topic
+|       |   |   |           c.pdf
+|       |   |   |           附件.zip
+|       |   |   |           
+|       |   |   \---D
+|       |   |       \---topic
+|       |   |               d.pdf
+|       |   |               
+|       |   +---2012
+|       |   |   |   readme.txt
+|       |   |   |   
+|       |   |   +---A
+|       |   |   |   +---paper
+|       |   |   |   |       12a01.pdf
+|       |   |   |   |       12a02.pdf
+|       |   |   |   |       12a03.pdf
+|       |   |   |   |       12a04.pdf
+|       |   |   |   |       12a05.pdf
+|       |   |   |   |       12a06.pdf
+|       |   |   |   |       12a07.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           a.doc
+|       |   |   |           a.pdf
+|       |   |   |           附件.zip
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   +---paper
+|       |   |   |   |   |   12b01.pdf
+|       |   |   |   |   |   12b05.pdf
+|       |   |   |   |   |   12b06.pdf
+|       |   |   |   |   |   
+|       |   |   |   |   +---12b02
+|       |   |   |   |   |       12b02.pdf
+|       |   |   |   |   |       12b02.zip
+|       |   |   |   |   |       
+|       |   |   |   |   +---12b03
+|       |   |   |   |   |       12b03.pdf
+|       |   |   |   |   |       12b03.zip
+|       |   |   |   |   |       
+|       |   |   |   |   \---12b04
+|       |   |   |   |           12b04.pdf
+|       |   |   |   |           B149源程序.zip
+|       |   |   |   |           
+|       |   |   |   \---topic
+|       |   |   |           b.doc
+|       |   |   |           b.pdf
+|       |   |   |           附件.zip
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   +---paper
+|       |   |   |   |       12c01.pdf
+|       |   |   |   |       12c02.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           c.doc
+|       |   |   |           c.pdf
+|       |   |   |           附件.zip
+|       |   |   |           
+|       |   |   \---D
+|       |   |       +---paper
+|       |   |       |   |   12d01.doc
+|       |   |       |   |   
+|       |   |       |   \---12d02
+|       |   |       |       |   12d02.doc
+|       |   |       |       |   12d02.pdf
+|       |   |       |       |   
+|       |   |       |       \---程序
+|       |   |       |               distancebetweenlines.m
+|       |   |       |               Dmethod1.mat
+|       |   |       |               Dmethod2.mat
+|       |   |       |               dykxlj.fig
+|       |   |       |               dykxlj1.fig
+|       |   |       |               FLOYD1.m
+|       |   |       |               huchang.m
+|       |   |       |               iscycleIntersect.m
+|       |   |       |               islineIntersect.m
+|       |   |       |               kxljmethod1.fig
+|       |   |       |               kxljmethod2.fig
+|       |   |       |               linedistance.m
+|       |   |       |               LINGO1.lg4
+|       |   |       |               LINGO1.zip
+|       |   |       |               LINGO2.lg4
+|       |   |       |               method1.m
+|       |   |       |               method2.m
+|       |   |       |               OA.fig
+|       |   |       |               OABCO.fig
+|       |   |       |               OB.fig
+|       |   |       |               OC.fig
+|       |   |       |               qiedian.m
+|       |   |       |               wen1.m
+|       |   |       |               xslj.m
+|       |   |       |               yuanyuanqiexian.m
+|       |   |       |               yykxlj.fig
+|       |   |       |               yykxlj1.fig
+|       |   |       |               zdlj.fig
+|       |   |       |               zdlj.m
+|       |   |       |               程序运行说明.txt
+|       |   |       |               
+|       |   |       \---topic
+|       |   |               d.doc
+|       |   |               d.pdf
+|       |   |               
+|       |   +---2013
+|       |   |   |   readme.txt
+|       |   |   |   
+|       |   |   +---A
+|       |   |   |   +---paper
+|       |   |   |   |   +---13a01
+|       |   |   |   |   |       13a01.docx
+|       |   |   |   |   |       13a01.pdf
+|       |   |   |   |   |       附件1_视频1事故横断面的车流量统计.xlsx
+|       |   |   |   |   |       附件2_截面C处车流量统计表.xlsx
+|       |   |   |   |   |       附件3_视频1小区路口车流量.xlsx
+|       |   |   |   |   |       附件4_排队事故详细情况.xlsx
+|       |   |   |   |   |       附件5_元胞自动机matlab程序.zip
+|       |   |   |   |   |       
+|       |   |   |   |   +---13a02
+|       |   |   |   |   |       13a02.pdf
+|       |   |   |   |   |       A0114matlab程序包.zip
+|       |   |   |   |   |       
+|       |   |   |   |   +---13a03
+|       |   |   |   |   |   |   13a03.docx
+|       |   |   |   |   |   |   13a03.pdf
+|       |   |   |   |   |   |   
+|       |   |   |   |   |   +---Matlab源程序
+|       |   |   |   |   |   |       calline.m
+|       |   |   |   |   |   |       Code.m
+|       |   |   |   |   |   |       Cross.m
+|       |   |   |   |   |   |       Decode.m
+|       |   |   |   |   |   |       fun.m
+|       |   |   |   |   |   |       fun1.m
+|       |   |   |   |   |   |       huandao.m
+|       |   |   |   |   |   |       Mutation.m
+|       |   |   |   |   |   |       problem1.m
+|       |   |   |   |   |   |       problem1_1.mat
+|       |   |   |   |   |   |       problem1_2.m
+|       |   |   |   |   |   |       problem2.m
+|       |   |   |   |   |   |       problem2.mat
+|       |   |   |   |   |   |       problem3.m
+|       |   |   |   |   |   |       problem3.mat
+|       |   |   |   |   |   |       problem3_2.m
+|       |   |   |   |   |   |       problem4.m
+|       |   |   |   |   |   |       problem4.mat
+|       |   |   |   |   |   |       Select.m
+|       |   |   |   |   |   |       switch.m
+|       |   |   |   |   |   |       test.m
+|       |   |   |   |   |   |       ti2.m
+|       |   |   |   |   |   |       ti21.m
+|       |   |   |   |   |   |       ti3.m
+|       |   |   |   |   |   |       ti31.m
+|       |   |   |   |   |   |       ti3data.mat
+|       |   |   |   |   |   |       
+|       |   |   |   |   |   \---SPSS数据文件及结果
+|       |   |   |   |   |           ti2.sav
+|       |   |   |   |   |           ti2_1.sav
+|       |   |   |   |   |           ti2_2.sav
+|       |   |   |   |   |           ti3.sav
+|       |   |   |   |   |           问题2结果.spv
+|       |   |   |   |   |           问题3结果.spv
+|       |   |   |   |   |           
+|       |   |   |   |   +---13a04
+|       |   |   |   |   |       13a04.pdf
+|       |   |   |   |   |       fj-A-13241002-黄小敏，黄程，王露.zip
+|       |   |   |   |   |       
+|       |   |   |   |   \---13a05
+|       |   |   |   |       |   13a05.docx
+|       |   |   |   |       |   13a05.pdf
+|       |   |   |   |       |   
+|       |   |   |   |       \---代码
+|       |   |   |   |           |   automata.m
+|       |   |   |   |           |   capacity3D.m
+|       |   |   |   |           |   CapacityAnalysis.m
+|       |   |   |   |           |   comparewithreal.m
+|       |   |   |   |           |   FlowAnalysis.m
+|       |   |   |   |           |   SimulateTraffic.m
+|       |   |   |   |           |   SolveProblem4.m
+|       |   |   |   |           |   
+|       |   |   |   |           \---第四问
+|       |   |   |   |                   automata.m
+|       |   |   |   |                   histogramofauto.m
+|       |   |   |   |                   lengthplot.m
+|       |   |   |   |                   lengthstat.m
+|       |   |   |   |                   
+|       |   |   |   \---topic
+|       |   |   |           a.doc
+|       |   |   |           a.pdf
+|       |   |   |           readme.doc
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   +---paper
+|       |   |   |   |   |   13b05.pdf
+|       |   |   |   |   |   
+|       |   |   |   |   +---13b01
+|       |   |   |   |   |       13b01.pdf
+|       |   |   |   |   |       fj-B-20001040-向航，王帆，郭树璇.zip
+|       |   |   |   |   |       
+|       |   |   |   |   +---13b02
+|       |   |   |   |   |       13b02.pdf
+|       |   |   |   |   |       程序.zip
+|       |   |   |   |   |       
+|       |   |   |   |   +---13b03
+|       |   |   |   |   |       13b03.pdf
+|       |   |   |   |   |       国赛B题数据及源程序.zip
+|       |   |   |   |   |       
+|       |   |   |   |   \---13b04
+|       |   |   |   |           13b04.pdf
+|       |   |   |   |           B0129Matlab程序.rar
+|       |   |   |   |           
+|       |   |   |   \---topic
+|       |   |   |           b.doc
+|       |   |   |           b.pdf
+|       |   |   |           附件.zip
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   +---paper
+|       |   |   |   |   \---13c01
+|       |   |   |   |           13c01.pdf
+|       |   |   |   |           附件.rar
+|       |   |   |   |           
+|       |   |   |   \---topic
+|       |   |   |           c.doc
+|       |   |   |           c.pdf
+|       |   |   |           附件1.xls
+|       |   |   |           
+|       |   |   \---D
+|       |   |       +---paper
+|       |   |       |   \---13d01
+|       |   |       |           13d01.pdf
+|       |   |       |           附件.rar
+|       |   |       |           附件2.zip
+|       |   |       |           
+|       |   |       \---topic
+|       |   |               d.doc
+|       |   |               d.pdf
+|       |   |               readme.doc
+|       |   |               
+|       |   +---2014
+|       |   |   |   readme.txt
+|       |   |   |   
+|       |   |   +---A
+|       |   |   |   +---paper
+|       |   |   |   |   |   14a06.pdf
+|       |   |   |   |   |   
+|       |   |   |   |   +---14a01
+|       |   |   |   |   |       14a01.pdf
+|       |   |   |   |   |       14a01.zip
+|       |   |   |   |   |       
+|       |   |   |   |   +---14a02
+|       |   |   |   |   |       14a02.pdf
+|       |   |   |   |   |       14a02.zip
+|       |   |   |   |   |       
+|       |   |   |   |   +---14a03
+|       |   |   |   |   |       14a03.pdf
+|       |   |   |   |   |       14a03.zip
+|       |   |   |   |   |       
+|       |   |   |   |   +---14a04
+|       |   |   |   |   |       14a04.pdf
+|       |   |   |   |   |       附件.zip
+|       |   |   |   |   |       
+|       |   |   |   |   \---14a05
+|       |   |   |   |           14a05.pdf
+|       |   |   |   |           程序.rar
+|       |   |   |   |           
+|       |   |   |   \---topic
+|       |   |   |           a.doc
+|       |   |   |           a.pdf
+|       |   |   |           附件1 问题的背景与参考资料(9.3定).doc
+|       |   |   |           附件2 嫦娥三号软着陆过程(9.3定).doc
+|       |   |   |           附件3 距2400m处的数字高程图.tif
+|       |   |   |           附件4 距月面100m处的数字高程图.tif
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   +---paper
+|       |   |   |   |   +---14b01
+|       |   |   |   |   |       14b01.pdf
+|       |   |   |   |   |       14b01.zip
+|       |   |   |   |   |       
+|       |   |   |   |   +---14b02
+|       |   |   |   |   |       14b02(star).pdf
+|       |   |   |   |   |       程序.zip
+|       |   |   |   |   |       
+|       |   |   |   |   +---14b03
+|       |   |   |   |   |       14b03.pdf
+|       |   |   |   |   |       14b03.zip
+|       |   |   |   |   |       
+|       |   |   |   |   \---14b04
+|       |   |   |   |           14b04.pdf
+|       |   |   |   |           matlab代码.docx
+|       |   |   |   |           
+|       |   |   |   \---topic
+|       |   |   |           b.doc
+|       |   |   |           b.pdf
+|       |   |   |           CUMCM-2014B-附件.mp4
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   +---paper
+|       |   |   |   |   +---14c01
+|       |   |   |   |   |       14c01.pdf
+|       |   |   |   |   |       14c01.zip
+|       |   |   |   |   |       
+|       |   |   |   |   +---14c02
+|       |   |   |   |   |       14c02.pdf
+|       |   |   |   |   |       benjiaobisai.lg4
+|       |   |   |   |   |       biandongfeiyong.txt
+|       |   |   |   |   |       bisai2.lg4
+|       |   |   |   |   |       bisai3.lg4
+|       |   |   |   |   |       bisai4.lg4
+|       |   |   |   |   |       f.txt
+|       |   |   |   |   |       muzhushuliang.lg4
+|       |   |   |   |   |       p.txt
+|       |   |   |   |   |       roujia.txt
+|       |   |   |   |   |       tianshujiange.txt
+|       |   |   |   |   |       
+|       |   |   |   |   \---14c03
+|       |   |   |   |           14c03.pdf
+|       |   |   |   |           模型一.nb
+|       |   |   |   |           模型二（1）.nb
+|       |   |   |   |           模型二（2）.nb
+|       |   |   |   |           
+|       |   |   |   \---topic
+|       |   |   |           c.docx
+|       |   |   |           c.pdf
+|       |   |   |           
+|       |   |   \---D
+|       |   |       +---paper
+|       |   |       |   +---14d01
+|       |   |       |   |       14d01.pdf
+|       |   |       |   |       matlab程序.rar
+|       |   |       |   |       
+|       |   |       |   \---14d02
+|       |   |       |           14d02.pdf
+|       |   |       |           14d02.zip
+|       |   |       |           
+|       |   |       \---topic
+|       |   |               d.doc
+|       |   |               d.pdf
+|       |   |               附件1-药盒型号.xls
+|       |   |               附件2-药品需求量.xls
+|       |   |               
+|       |   +---2015
+|       |   |   |   readme.txt
+|       |   |   |   
+|       |   |   +---A
+|       |   |   |   +---paper
+|       |   |   |   |       15a01.pdf
+|       |   |   |   |       15a02.pdf
+|       |   |   |   |       15a03.pdf
+|       |   |   |   |       15a04.pdf
+|       |   |   |   |       15a05.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           a.doc
+|       |   |   |           a.pdf
+|       |   |   |           附件1-3.xls
+|       |   |   |           附件4下载说明.doc
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   +---paper
+|       |   |   |   |       15b01.pdf
+|       |   |   |   |       15b02.pdf
+|       |   |   |   |       15b03.pdf
+|       |   |   |   |       15b04.pdf
+|       |   |   |   |       15b05.pdf
+|       |   |   |   |       15b06.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           b.doc
+|       |   |   |           b.pdf
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   +---paper
+|       |   |   |   |       15c01.docx
+|       |   |   |   |       15c01.pdf
+|       |   |   |   |       15c02.pdf
+|       |   |   |   |       15c03.docx
+|       |   |   |   |       15c03.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           c.docx
+|       |   |   |           c.pdf
+|       |   |   |           
+|       |   |   \---D
+|       |   |       +---paper
+|       |   |       |       15d01.doc
+|       |   |       |       15d01.pdf
+|       |   |       |       15d02.doc
+|       |   |       |       15d02.pdf
+|       |   |       |       15d03.doc
+|       |   |       |       15d03.pdf
+|       |   |       |       
+|       |   |       \---topic
+|       |   |               d.doc
+|       |   |               d.pdf
+|       |   |               附件1 赛题所需的相关数据.doc
+|       |   |               附件2 中华人民共和国土地增值税暂行条例.pdf
+|       |   |               附件3 其他相关说明.pdf
+|       |   |               
+|       |   +---2016
+|       |   |   |   readme.txt
+|       |   |   |   
+|       |   |   +---A
+|       |   |   |   +---paper
+|       |   |   |   |       16a01.pdf
+|       |   |   |   |       16a02.pdf
+|       |   |   |   |       16a03.pdf
+|       |   |   |   |       16a04.pdf
+|       |   |   |   |       16a05.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           a.doc
+|       |   |   |           a.pdf
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   +---paper
+|       |   |   |   |       16b01.pdf
+|       |   |   |   |       16b02.pdf
+|       |   |   |   |       16b03.pdf
+|       |   |   |   |       16b04.pdf
+|       |   |   |   |       16b05.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           B.doc
+|       |   |   |           b.pdf
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   +---paper
+|       |   |   |   |       16c01.pdf
+|       |   |   |   |       16c02.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           c.docx
+|       |   |   |           c.pdf
+|       |   |   |           c_data.xlsx
+|       |   |   |           
+|       |   |   \---D
+|       |   |       +---paper
+|       |   |       |       16d01.pdf
+|       |   |       |       16d02.pdf
+|       |   |       |       16d03.pdf
+|       |   |       |       
+|       |   |       \---topic
+|       |   |           |   d.doc
+|       |   |           |   d.pdf
+|       |   |           |   
+|       |   |           \---CUMCM2016-D-Appendix-Chinese
+|       |   |               |   附件3  风电场风机型号及其参数.doc
+|       |   |               |   附件4  风机生产企业提供的新型号风机主要参数.doc
+|       |   |               |   
+|       |   |               +---附件1  平均风速和风电场日实际输出功率表
+|       |   |               |       201501.xls
+|       |   |               |       201502.xls
+|       |   |               |       201503.xls
+|       |   |               |       201504.xls
+|       |   |               |       201505.xls
+|       |   |               |       201506.xls
+|       |   |               |       201507.xls
+|       |   |               |       201508.xls
+|       |   |               |       201509.xls
+|       |   |               |       201510.xls
+|       |   |               |       201511.xls
+|       |   |               |       201512.xls
+|       |   |               |       
+|       |   |               \---附件2  风电场典型风机报表
+|       |   |                       01.xls
+|       |   |                       02.xls
+|       |   |                       03.xls
+|       |   |                       04.xls
+|       |   |                       05.xls
+|       |   |                       06.xls
+|       |   |                       07.xls
+|       |   |                       08.xls
+|       |   |                       09.xls
+|       |   |                       10.xls
+|       |   |                       11.xls
+|       |   |                       12.xls
+|       |   |                       
+|       |   +---2017
+|       |   |   |   readme.txt
+|       |   |   |   
+|       |   |   +---A
+|       |   |   |   +---paper
+|       |   |   |   |       17a01.pdf
+|       |   |   |   |       17a02.pdf
+|       |   |   |   |       17a03.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           a.pdf
+|       |   |   |           A题附件.xls
+|       |   |   |           
+|       |   |   +---B
+|       |   |   |   +---paper
+|       |   |   |   |       17b01.pdf
+|       |   |   |   |       17b02.pdf
+|       |   |   |   |       17b03.pdf
+|       |   |   |   |       17b04.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           b.pdf
+|       |   |   |           附件一：已结束项目任务数据.xls
+|       |   |   |           附件三：新项目任务数据.xls
+|       |   |   |           附件二：会员信息数据.xlsx
+|       |   |   |           
+|       |   |   +---C
+|       |   |   |   +---paper
+|       |   |   |   |       17c01.pdf
+|       |   |   |   |       17c02.pdf
+|       |   |   |   |       17c03.pdf
+|       |   |   |   |       
+|       |   |   |   \---topic
+|       |   |   |           c.pdf
+|       |   |   |           Data1.xls
+|       |   |   |           Data2.xls
+|       |   |   |           readme.txt
+|       |   |   |           
+|       |   |   \---D
+|       |   |       +---paper
+|       |   |       |       17d01.pdf
+|       |   |       |       17d02.pdf
+|       |   |       |       17d03.pdf
+|       |   |       |       
+|       |   |       \---topic
+|       |   |               CUMCM-2017-appendix-D.xlsx
+|       |   |               d.pdf
+|       |   |               
+|       |   +---2018
+|       |   |   |   readme.txt
+|       |   |   |   
+|       |   |   +---A
+|       |   |   |       CUMCM-2018-Problem-A-Chinese.docx
+|       |   |   |       （2018-A）基于非稳态导热的高温作业专用服装设计.pdf
+|       |   |   |       （2018-A）高温作业专用服装设计.pdf
+|       |   |   |       （2018-A）高温作业专用服装设计1.pdf
+|       |   |   |       （2018-A）高温作业服设计.pdf
+|       |   |   |       
+|       |   |   +---B
+|       |   |   |       CUMCM-2018-Problem-B-Chinese.doc
+|       |   |   |       （2018-B）RGV 的动态调度优化问题.pdf
+|       |   |   |       （2018-B）基于 0-1 规划的单 RGV 动态调度模型.pdf
+|       |   |   |       （2018-B）基于多原则比较和蒙特卡洛模拟的 RGV 动态调度模型.pdf
+|       |   |   |       
+|       |   |   +---C
+|       |   |   |       CUMCM-2018-Problem C-Chinese.docx
+|       |   |   |       （2018-C）基于 RFMS 指标的大型百货商场会员画像数据挖掘.pdf
+|       |   |   |       （2018-C）基于 RFMT 模型的百货商场会员画像描绘.pdf
+|       |   |   |       （2018-C）大型百货商场会员画像描述.pdf
+|       |   |   |       
+|       |   |   \---D
+|       |   |           CUMCM-2018-problem-D-Chinese.docx
+|       |   |           （2018-D）汽车总装线配置方案.pdf
+|       |   |           （2018-D）汽车总装线配置的优化模型研究.pdf
+|       |   |           （2018-D）确定汽车装配顺序问题的算法.pdf
+|       |   |           
+|       |   \---其他优秀论文
+|       |           DVD在线租赁方案的优化模型.doc
+|       |           丹桂苑水塔加水模型.doc
+|       |           产品的零件安装程序设计.doc
+|       |           人力资源安排的最优化模型完整版.doc
+|       |           仓库地址选择的图论模型.doc
+|       |           住房贷款的数学模型.doc
+|       |           光照强度计算的优化模型.doc
+|       |           公交车合理调度的优化模型.doc
+|       |           公交车调度方案的数学规划模型.doc
+|       |           公平的评卷系统模型.doc
+|       |           关于电力市场的输电阻塞管理的数学模型.doc
+|       |           内部网信息组织规划优化模型.doc
+|       |           农场生产计划的数学模型.doc
+|       |           出版社资源优化配置的数学模型.doc
+|       |           出租车调价问题.doc
+|       |           制定商品房月建造计划.doc
+|       |           制陶材料的优化设计模型.doc
+|       |           加工业生产稳态模拟的数学模型.doc
+|       |           单循环赛制安排的数学模型.doc
+|       |           南水北调的优化分配.doc
+|       |           发电机的优化调度.doc
+|       |           可乐运输的优化分配方案.doc
+|       |           台球桌上的数学模型.doc
+|       |           商品价格问题的线性回归模型.doc
+|       |           商品最优价格的数学模型.doc
+|       |           商品的广告与销售的数学模型.doc
+|       |           商品的订购与销售的数学模型.doc
+|       |           商场订货与销售的优化模型.doc
+|       |           地下管线的优化模型.doc
+|       |           城市快速交通线票价的优化模型.doc
+|       |           基金使用最优方案.doc
+|       |           基金使用计划模型.doc
+|       |           基金使用计划的优化模型.doc
+|       |           大塘路段公共汽车调度问题的数学模型.doc
+|       |           大塘路段开山建路优化方案.doc
+|       |           奥运会临时超市网点的优化设计.doc
+|       |           奥运会临时超市网点设计的优化模型.doc
+|       |           奥运会场馆的人员疏散模型.doc
+|       |           奥运会迷你超市网点设计优化模型.doc
+|       |           奶牛场的承包养殖问题.doc
+|       |           开放式基金投资问题的数学模型.doc
+|       |           彩票设置方案的分析及优化模型.doc
+|       |           影院座位设计的优化模型.doc
+|       |           招聘保姆计划.doc
+|       |           排球扣杀的数学模型.doc
+|       |           提高太阳能热水器热效率的优化模型.doc
+|       |           教学质量的模糊综合评价模型.doc
+|       |           教师资源的最优安排.doc
+|       |           普通高校考试评分标准的数学模型.doc
+|       |           最优投资组合模型.doc
+|       |           最佳组队方案.doc
+|       |           最佳行走速度模型.doc
+|       |           最短时间生产计划安排.doc
+|       |           校园网的优化模型.doc
+|       |           水产的养殖与捕捞的数学模型.doc
+|       |           水库排污问题的数学模型.doc
+|       |           污水处理问题.doc
+|       |           汽车保险的优化模型.doc
+|       |           汽车公司的最优生产模型.doc
+|       |           游戏网站奖项设计.doc
+|       |           滚球运动的时间与轨迹.doc
+|       |           玻璃杯移动问题的数学模型.doc
+|       |           生产与存储的动态规划模型.doc
+|       |           生产与存贮问题的优化模型.doc
+|       |           生产的销售与存贮的数学模型（0）.doc
+|       |           生产规模的优化模型.doc
+|       |           生产过程调度的数学模型.doc
+|       |           生产销售存贮问题的数学模型.doc
+|       |           电力变压器铁心柱截面的优化设计.doc
+|       |           电力市场的输电阻塞管理数学模型.doc
+|       |           电教室座位安排的数学模型.doc
+|       |           硬盘振动测量论文.doc
+|       |           空洞探测问题的概率模型.doc
+|       |           竞渡策略的数学优化模型.doc
+|       |           管道包扎问题的数学模型.doc
+|       |           篮球比赛问题模型.doc
+|       |           篮球罚球投篮模型.doc
+|       |           组合投资的收益和风险模型.doc
+|       |           联合国安理会中各国势力的分析.doc
+|       |           艾滋病疗法的评价及疗效预测.doc
+|       |           英德市区交通阻塞的调度模型.doc
+|       |           草地水量问题的数学模型.doc
+|       |           草坪浇灌系统最优设置.doc
+|       |           血样分组检验的数学模型.doc
+|       |           血管三维重建的数学模型.doc
+|       |           血管的三维形态重建模型.doc
+|       |           超级市场的最佳经营方案.doc
+|       |           路灯安装的优化设计.doc
+|       |           车灯线光源的优化设计.doc
+|       |           车灯线光源的优化设计模型.doc
+|       |           轮胎生产安排计划的数学模型.doc
+|       |           输电阻塞管理的数学模型.doc
+|       |           钢管订购和运输的规划模型.doc
+|       |           钢管购运的寻优模型.doc
+|       |           铅球掷远问题的数学模型.doc
+|       |           长江水质评价和预测的数学模型.doc
+|       |           防盗门生产销售的最优模型.doc
+|       |           降落伞选购的优化模型.doc
+|       |           韶关学院课堂教学时间调整方案.doc
+|       |           食品加工的优化模型.doc
+|       |           
+|       +---算法代码案例
+|       |   |   readme.txt
+|       |   |   
+|       |   +---元胞自动机
+|       |   |   |   (CA学习资料)美国康奈尔大学BioNB441在Matlab中的元胞自动机.doc
+|       |   |   |   1月13日课件（元胞自动机）.rar
+|       |   |   |   2012-基于元胞自动机的交通流Matlab建模与仿真.pdf
+|       |   |   |   2014美国数学建模竞赛_MCM_A题_元胞自动机完整代码.docx
+|       |   |   |   2014美赛A题元胞数据模型仿真matlab源程序.docx
+|       |   |   |   3tptxeirirscrxps36wrcr3u_1.doc
+|       |   |   |   3tptxeirirscrxps36wrcr3u_2.doc
+|       |   |   |   7月18日元胞自动机.ppt
+|       |   |   |   Abstract_Cellular_Automata_Methods_in_Mathematical_Physics.pdf
+|       |   |   |   CA matlab.rar
+|       |   |   |   Genetic Algorithm and Direct Search Toolbox.part4.rar
+|       |   |   |   mcmthesis.zip
+|       |   |   |   wrzwwcaouiie3oa6eet6si6i_1.doc
+|       |   |   |   wrzwwcaouiie3oa6eet6si6i_2.doc
+|       |   |   |   wrzwwcaouiie3oa6eet6si6i_7.doc
+|       |   |   |   一种改进的一维元胞自动机交通流模型及减速概率的影响 (1).pdf
+|       |   |   |   一种改进的一维元胞自动机交通流模型及减速概率的影响.pdf
+|       |   |   |   元胞自动机.zip
+|       |   |   |   元胞自动机与Matlab(1).pdf
+|       |   |   |   元胞自动机代码编程.docx
+|       |   |   |   元胞自动机在数学模型中的应用.pdf
+|       |   |   |   元胞自动机的研究及模型的建立.pdf
+|       |   |   |   元胞自动机程序.txt
+|       |   |   |   关于元胞自动机.zip
+|       |   |   |   地理特征元胞自动机及城市土地利用演化研究.pdf
+|       |   |   |   基于元胞自动机的_右行左超车_规则作用与影响分析_王永丽.pdf
+|       |   |   |   基于元胞自动机的股票市场模拟模型.zip
+|       |   |   |   基于元胞自动机的行人疏散流仿真研究.pdf
+|       |   |   |   多速混合车辆单车道元胞自动机交通流模型的研究.pdf
+|       |   |   |   大型客车影响的双车道多速混合交通流CA模型研究.pdf
+|       |   |   |   
+|       |   |   \---元胞自动机论文和程序
+|       |   |       |   Cellular Automata in Matlab.doc
+|       |   |       |   cellular paradingms.pdf
+|       |   |       |   cellular programm.doc
+|       |   |       |   Forest fires spread modeling using cellular automata approach.pdf
+|       |   |       |   The Use of Cellular Automata for Spatial Modelling and Decision Support in Coastal Zones and Estuaria.pdf
+|       |   |       |   細胞自動機(cellular automata; CA).mht
+|       |   |       |   
+|       |   |       \---cell-auto
+|       |   |           +---D3
+|       |   |           |   |   Finite Nature - Fredkin CA.htm
+|       |   |           |   |   
+|       |   |           |   +---Finite Nature - Fredkin CA.files
+|       |   |           |   |       bg.jpg
+|       |   |           |   |       
+|       |   |           |   \---plugin
+|       |   |           |           ca3d[1].jar
+|       |   |           |           
+|       |   |           +---Diffusion
+|       |   |           |   |   Hexagonal Engineering - Diffusion.htm
+|       |   |           |   |   
+|       |   |           |   +---Hexagonal Engineering - Diffusion.files
+|       |   |           |   |       hexbg1.jpg
+|       |   |           |   |       
+|       |   |           |   \---plugin
+|       |   |           |           r2d[1].jar
+|       |   |           |           
+|       |   |           +---Ising spin system
+|       |   |           |   |   Cellular automata - Ising spin system.htm
+|       |   |           |   |   
+|       |   |           |   +---Cellular automata - Ising spin system.files
+|       |   |           |   |       bg.jpg
+|       |   |           |   |       ca_embossed_square_logo.png
+|       |   |           |   |       
+|       |   |           |   \---plugin
+|       |   |           |           hexparity[1].jar
+|       |   |           |           tg[2].jar
+|       |   |           |           
+|       |   |           +---Lotus Artificial Life
+|       |   |           |   |   Lotus Artificial Life - EoSex.htm
+|       |   |           |   |   
+|       |   |           |   +---Lotus Artificial Life - EoSex.files
+|       |   |           |   |       fstsml.jpg
+|       |   |           |   |       
+|       |   |           |   \---plugin
+|       |   |           |           eosex[1].jar
+|       |   |           |           
+|       |   |           +---meber
+|       |   |           |   |   Cellular automata - Membranes.htm
+|       |   |           |   |   
+|       |   |           |   +---Cellular automata - Membranes.files
+|       |   |           |   |       bg.jpg
+|       |   |           |   |       cell0.png
+|       |   |           |   |       cell1.png
+|       |   |           |   |       cell2.png
+|       |   |           |   |       cell3.png
+|       |   |           |   |       cell4.png
+|       |   |           |   |       cell5.png
+|       |   |           |   |       cell6.png
+|       |   |           |   |       
+|       |   |           |   \---plugin
+|       |   |           |           r2d[1].jar
+|       |   |           |           
+|       |   |           +---Mobile membrane
+|       |   |           |   |   Cellular automata - Mobile membranes.htm
+|       |   |           |   |   
+|       |   |           |   +---Cellular automata - Mobile membranes.files
+|       |   |           |   |       bg.jpg
+|       |   |           |   |       x_0.png
+|       |   |           |   |       x_1.png
+|       |   |           |   |       x_2.png
+|       |   |           |   |       x_3.png
+|       |   |           |   |       x_4.png
+|       |   |           |   |       x_5.png
+|       |   |           |   |       x_6.png
+|       |   |           |   |       x_7.png
+|       |   |           |   |       x_8.png
+|       |   |           |   |       x_9.png
+|       |   |           |   |       x_a.png
+|       |   |           |   |       x_b.png
+|       |   |           |   |       x_c.png
+|       |   |           |   |       x_d.png
+|       |   |           |   |       x_e.png
+|       |   |           |   |       x_f.png
+|       |   |           |   |       
+|       |   |           |   \---plugin
+|       |   |           |           r2d[2].jar
+|       |   |           |           
+|       |   |           +---Spiney membranes
+|       |   |           |   |   Cellular automata - Spiney membranes.htm
+|       |   |           |   |   sheet.css
+|       |   |           |   |   
+|       |   |           |   +---Cellular automata - Spiney membranes.files
+|       |   |           |   |       bg.jpg
+|       |   |           |   |       cell0.png
+|       |   |           |   |       cell1.png
+|       |   |           |   |       
+|       |   |           |   \---plugin
+|       |   |           |           r2d[1].jar
+|       |   |           |           sheet.css
+|       |   |           |           
+|       |   |           +---water
+|       |   |           |   |   Texture Garden - Java water simulation.htm
+|       |   |           |   |   
+|       |   |           |   +---plugin
+|       |   |           |   |       tg[1].jar
+|       |   |           |   |       
+|       |   |           |   \---Texture Garden - Java water simulation.files
+|       |   |           |           bg.jpg
+|       |   |           |           tg.png
+|       |   |           |           
+|       |   |           \---wave
+|       |   |               \---plugin
+|       |   |                   |   Finite Nature - Interference.htm
+|       |   |                   |   
+|       |   |                   +---Finite Nature - Interference.files
+|       |   |                   |       bg.jpg
+|       |   |                   |       finite.png
+|       |   |                   |       nature.png
+|       |   |                   |       
+|       |   |                   \---plugin
+|       |   |                           tg[1].jar
+|       |   |                           tg[2].jar
+|       |   |                           
+|       |   +---分治算法
+|       |   |       c程序.txt
+|       |   |       中国数学建模-编程交流-分治算法_1.txt
+|       |   |       中国数学建模-编程交流-分治算法_2.txt
+|       |   |       
+|       |   +---动态规划
+|       |   |       中国数学建模-编程交流-动态规划算法_1.txt
+|       |   |       中国数学建模-编程交流-动态规划算法_2.txt
+|       |   |       中国数学建模-编程交流-动态规划算法_3.txt
+|       |   |       
+|       |   +---多元统计分析
+|       |   |   |   多元统计分析资料 (3)(3).rar
+|       |   |   |   
+|       |   |   +---主成分分析
+|       |   |   |       examp11_02.xls
+|       |   |   |       example11_01.m
+|       |   |   |       example11_02.m
+|       |   |   |       王学民-主成分分析.ppt
+|       |   |   |       
+|       |   |   +---判别分析
+|       |   |   |       examp10_01.xls
+|       |   |   |       example10_01.m
+|       |   |   |       example10_02.m
+|       |   |   |       example10_03.m
+|       |   |   |       fisher.m
+|       |   |   |       王学民-判别分析.ppt
+|       |   |   |       
+|       |   |   +---因子分析
+|       |   |   |       examp12_02.xls
+|       |   |   |       example12_01.m
+|       |   |   |       example12_02.m
+|       |   |   |       王学民-因子分析.ppt
+|       |   |   |       
+|       |   |   +---多元分析
+|       |   |   |   |   26第二十六章  多元分析.pdf
+|       |   |   |   |   
+|       |   |   |   +---主成份分析
+|       |   |   |   |       gj.txt
+|       |   |   |   |       sn.txt
+|       |   |   |   |       Untitled14.m
+|       |   |   |   |       zhuchengfen.m
+|       |   |   |   |       
+|       |   |   |   +---因子分析
+|       |   |   |   |       r.txt
+|       |   |   |   |       yinzifenxi.m
+|       |   |   |   |       yinzixuanzhuan.m
+|       |   |   |   |       yinzixuanzhuan2.m
+|       |   |   |   |       
+|       |   |   |   \---聚类分析
+|       |   |   |       +---Q型聚类分析
+|       |   |   |       |       gj.txt
+|       |   |   |       |       Qjulei.m
+|       |   |   |       |       
+|       |   |   |       +---R型聚类分析
+|       |   |   |       |       gj.txt
+|       |   |   |       |       Rjuleifenxi1.m
+|       |   |   |       |       
+|       |   |   |       +---最短距离法与最长距离法
+|       |   |   |       |       juleifenxi1.m
+|       |   |   |       |       juleifenxi2.m
+|       |   |   |       |       
+|       |   |   |       \---服装标准制定中的变量聚类法
+|       |   |   |               ch.txt
+|       |   |   |               juleifenxi3.m
+|       |   |   |               
+|       |   |   \---聚类分析
+|       |   |           examp09_02.xls
+|       |   |           examp09_03.xls
+|       |   |           examp09_04.xls
+|       |   |           example09_01.m
+|       |   |           example09_02.m
+|       |   |           example09_03.m
+|       |   |           example09_04.m
+|       |   |           K-Means算法研究及在文本聚类中的应用.doc
+|       |   |           K-means聚类.pdf
+|       |   |           K-means聚类分析.pdf
+|       |   |           K-Means聚类分析在我国专利申请分析中的应用.pdf
+|       |   |           初始中心优化的K_Means聚类算法.pdf
+|       |   |           王学民-聚类分析.ppt
+|       |   |           
+|       |   +---排队论
+|       |   |   |   2005年中国大学生数学建模竞赛论文(排队论模型解决出租车最佳数量预测)I.pdf
+|       |   |   |   图论及其应用 第二版.rar
+|       |   |   |   图论算法及其MATLAB实现_王海英_北航_2010_154_xaywgchx.pdf
+|       |   |   |   排队论(讲义).ppt
+|       |   |   |   排队论.rar
+|       |   |   |   排队论模型课件.pdf
+|       |   |   |   数学竞赛中的图论方法-----优秀方法.rar
+|       |   |   |   算法大全第05章__图与网络.pdf
+|       |   |   |   算法大全第06章_排队论.pdf
+|       |   |   |   
+|       |   |   \---图论算法
+|       |   |           GrTheory.rar
+|       |   |           图论-总结.ppt
+|       |   |           数学建模图论详解.ppt
+|       |   |           算法合集之《图论的基本思想及方法》.ppt
+|       |   |           算法合集之《图论的基本思想及方法》.zip
+|       |   |           算法合集之《最短路算法及其应用》.zip
+|       |   |           算法图论.pdf
+|       |   |           
+|       |   +---搜索算法
+|       |   |       中国数学建模-编程交流-搜索算法基础.txt
+|       |   |       
+|       |   +---最优化算法
+|       |   |       MATLAB优化工具箱.ppt
+|       |   |       最优化方法及其Matlab程序设计 - 马昌凤（清晰）(来自9yls.net).pdf
+|       |   |       最优化方法课件2011级.ppt
+|       |   |       最优化算法.pdf
+|       |   |       
+|       |   +---概率算法
+|       |   |       中国数学建模-编程交流-概率算法简介.txt
+|       |   |       
+|       |   +---神经网络
+|       |   |   |   2005年A题主成分 灰色 神经网络.pdf
+|       |   |   |   matlab15.pdf
+|       |   |   |   matlab16.pdf
+|       |   |   |   平面度误差的最小二乘法分析.pdf
+|       |   |   |   
+|       |   |   \---神经网络
+|       |   |       \---神经网络
+|       |   |               matlab1神经网络.pdf
+|       |   |               matlab神经网络.pdf
+|       |   |               Matlab神经网络工具箱应用简介.pdf
+|       |   |               人工神经网络及其应用.pdf
+|       |   |               人工神经网络技术及应用.pdf
+|       |   |               基于遗传算法的RBF神经网络学习算法.pdf
+|       |   |               模糊神经网络与算法研究.pdf
+|       |   |               模糊神经网络（5）.ppt
+|       |   |               用于神经网络结构优化的改进遗传算法.pdf
+|       |   |               神经网络2005第11讲.doc
+|       |   |               神经网络2005第12讲.doc
+|       |   |               神经网络2005第13讲.doc
+|       |   |               神经网络2005第1讲.doc
+|       |   |               神经网络2005第2讲.doc
+|       |   |               神经网络2005第3讲.doc
+|       |   |               神经网络2005第4讲.doc
+|       |   |               神经网络2005第5讲.doc
+|       |   |               神经网络2005第7讲.doc
+|       |   |               神经网络2005第8讲.doc
+|       |   |               神经网络2005第9讲.doc
+|       |   |               神经网络PID控制及其Matlab仿真.PDF
+|       |   |               神经网络模型.pdf.blk
+|       |   |               神经网络模型.pdf.map
+|       |   |               神经网络－（2）Matlab与神经网络工具箱.ppt
+|       |   |               
+|       |   +---第10章 判别分析
+|       |   |       examp10_01.xls
+|       |   |       example10_01.m
+|       |   |       example10_02.m
+|       |   |       example10_03.m
+|       |   |       fisher.m
+|       |   |       fisheriris.mat
+|       |   |       
+|       |   +---第11章 主成分分析
+|       |   |       examp11_02.xls
+|       |   |       example11_01.m
+|       |   |       example11_02.m
+|       |   |       
+|       |   +---第12章 因子分析
+|       |   |       examp12_02.xls
+|       |   |       example12_01.m
+|       |   |       example12_02.m
+|       |   |       
+|       |   +---第1章 利用MATLAB生成Word和Excel文档
+|       |   |       ceshi_Excel.m
+|       |   |       ceshi_Word.m
+|       |   |       example01_01.m
+|       |   |       example01_02.m
+|       |   |       example01_03.m
+|       |   |       example01_04.m
+|       |   |       example01_05.m
+|       |   |       example01_06.m
+|       |   |       football.jpg
+|       |   |       peppers.png
+|       |   |       XiezhhTest.m
+|       |   |       片段1.m
+|       |   |       片段2.m
+|       |   |       片段3.m
+|       |   |       片段4.m
+|       |   |       片段5.m
+|       |   |       青花瓷.mp3
+|       |   |       
+|       |   +---第2章 数据的导入与导出
+|       |   |       examp02_01.txt
+|       |   |       examp02_02.txt
+|       |   |       examp02_03.txt
+|       |   |       examp02_04.txt
+|       |   |       examp02_05.txt
+|       |   |       examp02_06.txt
+|       |   |       examp02_07.txt
+|       |   |       examp02_08.txt
+|       |   |       examp02_09.txt
+|       |   |       examp02_10.txt
+|       |   |       examp02_11.txt
+|       |   |       examp02_12.txt
+|       |   |       examp02_13.txt
+|       |   |       examp02_14.xls
+|       |   |       examp02_15.xls
+|       |   |       setplusone1.m
+|       |   |       setplusone2.m
+|       |   |       片段1(importdata).m
+|       |   |       片段10(xlswrite).m
+|       |   |       片段2(load).m
+|       |   |       片段3(dlmread).m
+|       |   |       片段4(textread).m
+|       |   |       片段5(fopen).m
+|       |   |       片段6(textscan).m
+|       |   |       片段7(dlmwrite).m
+|       |   |       片段8(fprintf).m
+|       |   |       片段9(xlsread).m
+|       |   |       
+|       |   +---第3章 数据的预处理
+|       |   |       examp03_02.xls
+|       |   |       example03_01.m
+|       |   |       example03_02.m
+|       |   |       example03_03.m
+|       |   |       example03_04.m
+|       |   |       example03_05.m
+|       |   |       rscore.m
+|       |   |       
+|       |   +---第4章 生成随机数
+|       |   |       BuffonMonteCarlo.m
+|       |   |       crnd.m
+|       |   |       drnd.m
+|       |   |       example04_01.m
+|       |   |       example04_02.m
+|       |   |       example04_03.m
+|       |   |       example04_04.m
+|       |   |       example04_05.m
+|       |   |       example04_06.m
+|       |   |       example04_07.m
+|       |   |       example04_08.m
+|       |   |       example04_09.m
+|       |   |       example04_10.m
+|       |   |       example04_11.m
+|       |   |       example04_12.m
+|       |   |       example04_13.m
+|       |   |       example04_14-20.m
+|       |   |       GameMont1.m
+|       |   |       GameMont2.m
+|       |   |       HistRate.m
+|       |   |       PiMonteCarlo.m
+|       |   |       probmont.m
+|       |   |       quad1mont.m
+|       |   |       quad2mont.m
+|       |   |       quad2mont_Fig.m
+|       |   |       SheepAndCar.m
+|       |   |       
+|       |   +---第5章 参数估计与假设检验
+|       |   |       examp02_14.xls
+|       |   |       example05_01.m
+|       |   |       example05_02.m
+|       |   |       example05_03.m
+|       |   |       example05_04.m
+|       |   |       
+|       |   +---第6章 Copula理论及应用实例
+|       |   |       example06_01.m
+|       |   |       hushi.xls
+|       |   |       shenshi.xls
+|       |   |       
+|       |   +---第7章 方差分析
+|       |   |       examp07_01.xls
+|       |   |       examp07_04.xls
+|       |   |       examp07_05.xls
+|       |   |       example07_01.m
+|       |   |       example07_02.m
+|       |   |       example07_03.m
+|       |   |       example07_04.m
+|       |   |       example07_05.m
+|       |   |       example07_06.m
+|       |   |       example07_07.m
+|       |   |       
+|       |   +---第8章 数据拟合
+|       |   |       examp08_01.xls
+|       |   |       examp08_02.xls
+|       |   |       examp08_03.xls
+|       |   |       example08_01_reglm.m
+|       |   |       example08_01_regress.m
+|       |   |       example08_01_robustfit.m
+|       |   |       example08_02_nlinfit.m
+|       |   |       example08_03_reglm.m
+|       |   |       example08_03_stepwise.m
+|       |   |       HeadCir1.m
+|       |   |       reglm.m
+|       |   |       
+|       |   +---第9章 聚类分析
+|       |   |       examp09_02.xls
+|       |   |       examp09_03.xls
+|       |   |       examp09_04.xls
+|       |   |       examp09_05.xls
+|       |   |       example09_01.m
+|       |   |       example09_02.m
+|       |   |       example09_03.m
+|       |   |       example09_04.m
+|       |   |       example09_05.m
+|       |   |       
+|       |   +---组合算法
+|       |   |       中国数学建模-编程交流-组合算法概论.txt
+|       |   |       
+|       |   +---综合评价方法
+|       |   |   |   综合评价方法大全.doc
+|       |   |   |   
+|       |   |   +---主成份分析法
+|       |   |   |   |   2005年A题主成分 灰色 神经网络.pdf
+|       |   |   |   |   2005年A题全国数学建模优秀论文3.pdf
+|       |   |   |   |   26第二十六章  多元分析.pdf
+|       |   |   |   |   主成分分析及matlab实现.ppt
+|       |   |   |   |   主成分分析法 (1).doc
+|       |   |   |   |   主成分分析法.doc
+|       |   |   |   |   主成分分析法的优点.docx
+|       |   |   |   |   主成分分析法的原理应用及计算步骤.doc
+|       |   |   |   |   主成分分析的计算步骤.doc
+|       |   |   |   |   
+|       |   |   |   \---主成分分析
+|       |   |   |           eig.m
+|       |   |   |           xgjz.m
+|       |   |   |           主成分分析.ppt
+|       |   |   |           数据表.xls
+|       |   |   |           
+|       |   |   +---层次分析法
+|       |   |   |   |   8第八章  层次分析法.docx
+|       |   |   |   |   8第八章  层次分析法.pdf
+|       |   |   |   |   matlab层次分析法.ppt
+|       |   |   |   |   Untitled12.m
+|       |   |   |   |   复件 层次分析方法.ppt
+|       |   |   |   |   对学生宿舍设计方案的评价问题.doc
+|       |   |   |   |   层次分析法.doc
+|       |   |   |   |   层次分析法matlab程序举例.doc
+|       |   |   |   |   层次分析法matlab程序及说明书.rar
+|       |   |   |   |   层次分析法__matlab程序.doc
+|       |   |   |   |   层次分析法例题.doc
+|       |   |   |   |   层次分析法的优缺点.doc
+|       |   |   |   |   第八章.ppt
+|       |   |   |   |   
+|       |   |   |   \---AHP理论
+|       |   |   |       |   1993B优秀论文.rar
+|       |   |   |       |   1993年足球队排名次赛题.PDF
+|       |   |   |       |   1993足球队排名.ppt
+|       |   |   |       |   AHP理论.ppt
+|       |   |   |       |   层次分析法MATLAB实现.txt
+|       |   |   |       |   足球队排名matlab实现.txt
+|       |   |   |       |   
+|       |   |   |       \---1993B优秀论文
+|       |   |   |               1993年全国大学生数学模型竞赛.PDF
+|       |   |   |               一个给足球队排名次的方法——B题.PDF
+|       |   |   |               关于“球队排名次问题”的几点评注——B题.PDF
+|       |   |   |               模糊分析在足球队排名中的应用的C程序.PDF
+|       |   |   |               模糊聚类分析在足球队排名中的应用.PDF
+|       |   |   |               
+|       |   |   \---模糊综合评价
+|       |   |           22第二十二章  模糊数学模型.pdf
+|       |   |           基于模糊模式识别的蠓虫分类数学模型.pdf
+|       |   |           数学建模案例分析--_模糊数学方法建模1模糊综合评判及其应用.doc
+|       |   |           模糊数学MATLAB应用.doc
+|       |   |           模糊综合评价法举例.doc
+|       |   |           模糊综合评判法.doc
+|       |   |           模糊问题 1 模糊识别.doc
+|       |   |           
+|       |   +---蒙特卡罗算法
+|       |   |   |   Optim07__直接搜索法和蒙特卡罗法.pdf
+|       |   |   |   Optim07__直接搜索法和蒙特卡罗法__无动画.pdf
+|       |   |   |   Simulink仿真培训整理.pdf
+|       |   |   |   基于蒙特卡罗方法的试卷难度分布研究.pdf
+|       |   |   |   蒙特卡洛.rar
+|       |   |   |   蒙特卡洛法.rar
+|       |   |   |   蒙特卡罗方法引论.pdf
+|       |   |   |   蒙特卡罗模拟.zip
+|       |   |   |   蒙特卡罗法.rar
+|       |   |   |   蒙特卡罗算法与matlab.doc
+|       |   |   |   蒙特卡罗算法案例.pdf
+|       |   |   |   随机模拟模型.rar
+|       |   |   |   
+|       |   |   +---蒙特卡洛法
+|       |   |   |   |   三根鸡毛信_蒙特卡罗编程.pdf
+|       |   |   |   |   元胞自动机.doc
+|       |   |   |   |   元胞自动机与Matlab.pdf
+|       |   |   |   |   蒙卡模拟.rar
+|       |   |   |   |   蒙特卡罗算法.zip
+|       |   |   |   |   蒙特卡罗算法举例.doc
+|       |   |   |   |   蒙特卡罗算法案例.pdf
+|       |   |   |   |   
+|       |   |   |   +---蒙特卡洛
+|       |   |   |   |   |   基于遗传算法与BP算法的水质评价模型.pdf
+|       |   |   |   |   |   蒙特卡罗方法引论第一部分.pdf
+|       |   |   |   |   |   蒙特卡罗方法引论第二部分.pdf
+|       |   |   |   |   |   蒙特卡罗模拟.doc
+|       |   |   |   |   |   蒙特卡罗算法举例.doc
+|       |   |   |   |   |   蒙特卡罗算法案例.pdf
+|       |   |   |   |   |   随机模拟与系统仿真.doc
+|       |   |   |   |   |   
+|       |   |   |   |   +---MATLAB中的计算机模拟
+|       |   |   |   |   |       matlab.doc
+|       |   |   |   |   |       第七节 实验.pdf
+|       |   |   |   |   |       第三节 随机变量的抽样.pdf
+|       |   |   |   |   |       第二节 引例.pdf
+|       |   |   |   |   |       第五节 离散系统的模拟.pdf
+|       |   |   |   |   |       第六节 范例.pdf
+|       |   |   |   |   |       第四节 连续系统的模拟.pdf
+|       |   |   |   |   |       
+|       |   |   |   |   +---MonteCarlo
+|       |   |   |   |   |   |   MonteCarlo_Simulations_english.ppt
+|       |   |   |   |   |   |   readme.txt
+|       |   |   |   |   |   |   Simulations_Monte_Carlo_french.ppt
+|       |   |   |   |   |   |   
+|       |   |   |   |   |   \---Demos
+|       |   |   |   |   |       +---LakeArea
+|       |   |   |   |   |       |       ConfidenceIntervalInMC.m
+|       |   |   |   |   |       |       CreateConvexPolygon.m
+|       |   |   |   |   |       |       EstimateAreaMC.m
+|       |   |   |   |   |       |       MainLakeArea.m
+|       |   |   |   |   |       |       TestPolyGon.m
+|       |   |   |   |   |       |       
+|       |   |   |   |   |       +---MyMC
+|       |   |   |   |   |       |       MonteCarlo.m
+|       |   |   |   |   |       |       
+|       |   |   |   |   |       +---PortSim
+|       |   |   |   |   |       |       Equities.mat
+|       |   |   |   |   |       |       GetOptionPrice.m
+|       |   |   |   |   |       |       WebinarScript.m
+|       |   |   |   |   |       |       
+|       |   |   |   |   |       \---VarReduction
+|       |   |   |   |   |               BlsHalton.m
+|       |   |   |   |   |               BlsMC.m
+|       |   |   |   |   |               BlsMCAV.m
+|       |   |   |   |   |               BlsMCCV.m
+|       |   |   |   |   |               BlsSobol.m
+|       |   |   |   |   |               FillBetween.m
+|       |   |   |   |   |               VanillaPricingUsingDifferentMethods.m
+|       |   |   |   |   |               
+|       |   |   |   |   \---蒙特卡洛
+|       |   |   |   |           montec.m
+|       |   |   |   |           montec2var.m
+|       |   |   |   |           montec2vvar.m
+|       |   |   |   |           simpson.m
+|       |   |   |   |           
+|       |   |   |   +---蒙特卡洛法
+|       |   |   |   |       combat1.m
+|       |   |   |   |       computing.m
+|       |   |   |   |       envirment.m
+|       |   |   |   |       leaveflash.m
+|       |   |   |   |       personcreat.m
+|       |   |   |   |       serveflash.m
+|       |   |   |   |       timinge1.m
+|       |   |   |   |       用蒙特卡洛法实现对排队等待问题的计算机模拟.doc
+|       |   |   |   |       
+|       |   |   |   \---蒙特卡罗方法课件
+|       |   |   |           0.蒙特卡罗方法目录.ppt
+|       |   |   |           1.蒙特卡罗方法概述.ppt
+|       |   |   |           2.随机数.ppt
+|       |   |   |           3.由巳知分布的随机抽样.ppt
+|       |   |   |           4.蒙特卡罗方法解粒子输运问题.ppt
+|       |   |   |           5.蒙特卡罗方法在计算机上的实现.ppt
+|       |   |   |           6.蒙特卡罗方法在通量计算中的应用.ppt
+|       |   |   |           7.蒙特卡罗方法在积分计算中的应用.ppt
+|       |   |   |           8.常用蒙特卡罗程序介绍.ppt
+|       |   |   |           
+|       |   |   \---蒙特卡罗算法mcmc
+|       |   |           About_MCMC.html
+|       |   |           betalpr.m
+|       |   |           Contents.m
+|       |   |           Copyright
+|       |   |           gamlpr.m
+|       |   |           index.html
+|       |   |           invwishirnd.m
+|       |   |           invwishlpr.m
+|       |   |           invwishpdf.m
+|       |   |           invwishrnd.m
+|       |   |           ltindex.m
+|       |   |           ltvec.m
+|       |   |           mcmcacf.m
+|       |   |           mcmcdemo.m
+|       |   |           mcmcgr.m
+|       |   |           mcmclt.m
+|       |   |           mcmcsumm.m
+|       |   |           mcmctrace.m
+|       |   |           metrop.m
+|       |   |           mvnormlpr.m
+|       |   |           mvnormrnd.m
+|       |   |           randrand.m
+|       |   |           veclt.m
+|       |   |           Version
+|       |   |           wishirnd.m
+|       |   |           wishrnd.m
+|       |   |           
+|       |   +---蚁群算法
+|       |   |       人工蚁群算法理论及其在经典TSP问题中的实现.pdf
+|       |   |       基于改进蚁群算法的出租车路径规划算法.pdf
+|       |   |       基于改进蚁群算法的最短路径问题研究.pdf
+|       |   |       粒子群算法matlab源程序function.docx
+|       |   |       蚁群算法.ppt
+|       |   |       蚁群算法.rar
+|       |   |       蚁群算法C程序代码.doc
+|       |   |       蚁群算法TSP问题matlab源代码.doc
+|       |   |       蚁群算法原理及其应用 2005.pdf，462页 完整版 __.pdf
+|       |   |       蚁群算法原理的仿真研究.pdf
+|       |   |       蚁群算法最短路径matlab程序.doc
+|       |   |       蚁群算法的Matlab程序.doc
+|       |   |       蚁群算法的理论与应用.pdf
+|       |   |       蚁群算法研究与实现.pdf
+|       |   |       
+|       |   +---贪婪算法
+|       |   |       中国数学建模-编程交流-贪婪算法_1.txt
+|       |   |       中国数学建模-编程交流-贪婪算法_2.txt
+|       |   |       
+|       |   +---遗传算法
+|       |   |       中国数学建模-编程交流-模拟退火算法.txt
+|       |   |       工具箱.rar
+|       |   |       源程序.txt
+|       |   |       用MATLAB实现遗传算法程序.rar
+|       |   |       自适应复制、交叉和突变的遗传算法 - .pdf
+|       |   |       遗传算法——理论、应用与软件实现.pdf
+|       |   |       遗传算法中适应度函数的研究.pdf
+|       |   |       遗传算法和模拟退火算法源程序.rar
+|       |   |       遗传算法实例.rar
+|       |   |       遗传算法的一些应用于编程（含源代码）.rar
+|       |   |       遗传算法解非线性方程组的Matlab程序.doc
+|       |   |       
+|       |   +---附录A 图像处理中的统计应用案例
+|       |   |   |   coins.png
+|       |   |   |   examp0A_01.bmp
+|       |   |   |   example0A_01.m
+|       |   |   |   example0A_02.m
+|       |   |   |   example0A_03.m
+|       |   |   |   example0A_04.m
+|       |   |   |   example0A_05.m
+|       |   |   |   football.jpg
+|       |   |   |   ImCompressPrin.m
+|       |   |   |   littleduck.jpg
+|       |   |   |   WalkingMan.avi
+|       |   |   |   WalkingMan1.gif
+|       |   |   |   WalkingMan2.gif
+|       |   |   |   
+|       |   |   +---检验样本图片
+|       |   |   |       num0_1.bmp
+|       |   |   |       num0_2.bmp
+|       |   |   |       num0_3.bmp
+|       |   |   |       num1_1.bmp
+|       |   |   |       num1_2.bmp
+|       |   |   |       num1_3.bmp
+|       |   |   |       num2_1.bmp
+|       |   |   |       num2_2.bmp
+|       |   |   |       num2_3.bmp
+|       |   |   |       num3_1.bmp
+|       |   |   |       num3_2.bmp
+|       |   |   |       num3_3.bmp
+|       |   |   |       num4_1.bmp
+|       |   |   |       num4_2.bmp
+|       |   |   |       num4_3.bmp
+|       |   |   |       num5_1.bmp
+|       |   |   |       num5_2.bmp
+|       |   |   |       num5_3.bmp
+|       |   |   |       num6_1.bmp
+|       |   |   |       num6_2.bmp
+|       |   |   |       num6_3.bmp
+|       |   |   |       num7_1.bmp
+|       |   |   |       num7_2.bmp
+|       |   |   |       num7_3.bmp
+|       |   |   |       num8_1.bmp
+|       |   |   |       num8_2.bmp
+|       |   |   |       num8_3.bmp
+|       |   |   |       num9_1.bmp
+|       |   |   |       num9_2.bmp
+|       |   |   |       num9_3.bmp
+|       |   |   |       
+|       |   |   \---训练样本图片
+|       |   |           num0_1.jpg
+|       |   |           num0_2.jpg
+|       |   |           num0_3.jpg
+|       |   |           num0_4.jpg
+|       |   |           num0_5.jpg
+|       |   |           num1_1.jpg
+|       |   |           num1_2.jpg
+|       |   |           num1_3.jpg
+|       |   |           num1_4.jpg
+|       |   |           num1_5.jpg
+|       |   |           num2_1.jpg
+|       |   |           num2_2.jpg
+|       |   |           num2_3.jpg
+|       |   |           num2_4.jpg
+|       |   |           num2_5.jpg
+|       |   |           num3_1.jpg
+|       |   |           num3_2.jpg
+|       |   |           num3_3.jpg
+|       |   |           num3_4.jpg
+|       |   |           num3_5.jpg
+|       |   |           num4_1.jpg
+|       |   |           num4_2.jpg
+|       |   |           num4_3.jpg
+|       |   |           num4_4.jpg
+|       |   |           num4_5.jpg
+|       |   |           num5_1.jpg
+|       |   |           num5_2.jpg
+|       |   |           num5_3.jpg
+|       |   |           num5_4.jpg
+|       |   |           num5_5.jpg
+|       |   |           num6_1.jpg
+|       |   |           num6_2.jpg
+|       |   |           num6_3.jpg
+|       |   |           num6_4.jpg
+|       |   |           num6_5.jpg
+|       |   |           num7_1.jpg
+|       |   |           num7_2.jpg
+|       |   |           num7_3.jpg
+|       |   |           num7_4.jpg
+|       |   |           num7_5.jpg
+|       |   |           num8_1.jpg
+|       |   |           num8_2.jpg
+|       |   |           num8_3.jpg
+|       |   |           num8_4.jpg
+|       |   |           num8_5.jpg
+|       |   |           num9_1.jpg
+|       |   |           num9_2.jpg
+|       |   |           num9_3.jpg
+|       |   |           num9_4.jpg
+|       |   |           num9_5.jpg
+|       |   |           
+|       |   \---预测方法
+|       |       |   中国人口增长预测.doc
+|       |       |   时间序列.rar
+|       |       |   灰色模型神经网络拟合.docx
+|       |       |   
+|       |       +---回归分析
+|       |       |   |   12第十二章 回归分析.pdf
+|       |       |   |   回归分析(excel).PPT
+|       |       |   |   回归分析与拟合MATLAB.pdf
+|       |       |   |   回归分析讲义.ppt
+|       |       |   |   第八章回归分析方法.doc
+|       |       |   |   第十章.ppt
+|       |       |   |   讲稿.doc
+|       |       |   |   
+|       |       |   +---回归模型（课件）
+|       |       |   |       单方程计量经济学模型(第0节备用).ppt
+|       |       |   |       回归模型的其他函数形式.ppt
+|       |       |   |       第一节 古典回归模型(zhao).ppt
+|       |       |   |       第三节  一元线性回归模型的统计检验.ppt
+|       |       |   |       第二节 回归模型的参数估计 （赵）.ppt
+|       |       |   |       第四节 非线性回归模型的参数估计 （赵）.ppt
+|       |       |   |       
+|       |       |   +---第11讲 回归分析
+|       |       |   |       liti11.m
+|       |       |   |       liti12.m
+|       |       |   |       liti21.m
+|       |       |   |       liti22.asv
+|       |       |   |       liti22.m
+|       |       |   |       liti23.m
+|       |       |   |       liti31.m
+|       |       |   |       liti32.m
+|       |       |   |       liti41.m
+|       |       |   |       liti42.m
+|       |       |   |       liti51.m
+|       |       |   |       liti52.m
+|       |       |   |       liti6.m
+|       |       |   |       model.m
+|       |       |   |       yhat.m
+|       |       |   |       例6 财政收入预测问题.doc
+|       |       |   |       回归分析讲义.ppt
+|       |       |   |       新建 Microsoft Word 文档.doc
+|       |       |   |       第11讲 回归分析.ppt
+|       |       |   |       
+|       |       |   \---第三章 回归模型的扩展（课件）
+|       |       |           3.10.wf1
+|       |       |           3.17.wf1
+|       |       |           3.8.wf1
+|       |       |           l1.wf1
+|       |       |           lt3.wf1
+|       |       |           lt3。1park.gleiser.wf1
+|       |       |           §3.4   随机解释变量问题.ppt
+|       |       |           第三章  回归模型的扩展 异方差性.ppt
+|       |       |           第三节 多重共线性.ppt
+|       |       |           第二节序列相关性.ppt
+|       |       |           第五节 滞后变量.ppt
+|       |       |           第四节 虚拟变量.ppt
+|       |       |           
+|       |       +---插值拟合
+|       |       |       9第九章 插值与拟合.docx
+|       |       |       9第九章 插值与拟合.pdf
+|       |       |       matlab插值与拟合(命令与示例).docx
+|       |       |       matlab插值与拟合(命令与示例).pdf
+|       |       |       matlab插值拟合.doc
+|       |       |       回归分析与拟合MATLAB.pdf
+|       |       |       拟合与插值专题.ppt
+|       |       |       数据插值与数据拟合.ppt
+|       |       |       数据插值与数据拟合测试题.doc
+|       |       |       
+|       |       +---灰色预测
+|       |       |   |   25第二十五章  灰色系统理论及其应用.docx
+|       |       |   |   25第二十五章  灰色系统理论及其应用.pdf
+|       |       |   |   文天灰色预测模型-GM.ppt
+|       |       |   |   灰色模型神经网络拟合.pdf
+|       |       |   |   灰色预测模型.ppt
+|       |       |   |   用MATLAB实现灰色预测GM11模型.pdf
+|       |       |   |   
+|       |       |   \---灰色系统
+|       |       |           1-1.doc
+|       |       |           1-2.doc
+|       |       |           1-3.doc
+|       |       |           1-4.doc
+|       |       |           数据.xls
+|       |       |           灰色系统.ppt
+|       |       |           灰色系统分析11年7月修改.doc
+|       |       |           灰色系统方法.pdf
+|       |       |           
+|       |       +---神经网络预测
+|       |       |       06BP神经网络预测模型的可靠性分析(会议，已发表).doc
+|       |       |       19第十九章 神经网络模型.pdf
+|       |       |       BP神经网络matlab源程序代码.doc
+|       |       |       MATLAB神经网络30个案例分析.pdf
+|       |       |       net32.mat
+|       |       |       NumREC.m
+|       |       |       NumSIM.m
+|       |       |       小波分析及其应用(回顾).pdf
+|       |       |       神经网络.doc
+|       |       |       神经网络课件.ppt
+|       |       |       第二篇 第六章 神经网络（焦）——汤.doc
+|       |       |       
+|       |       +---预测方法与模型课件
+|       |       |       历年赛题.pptx
+|       |       |       大数据时代的需求预测.ppt
+|       |       |       建模培训-灰色系统预测.ppt
+|       |       |       建模培训-预测方法-时间序列.ppt
+|       |       |       建模培训-预测方法1.ppt
+|       |       |       建模培训-预测方法2.ppt
+|       |       |       马尔科夫预测法.ppt
+|       |       |       
+|       |       \---马尔可夫预测
+|       |               17第十七章 马氏链模型.pdf
+|       |               第十二章.ppt
+|       |               马氏链模型.ppt
+|       |               
+|       \---美赛
+|           |   readme.txt
+|           |   
+|           +---2008
+|           |   |   readme.txt
+|           |   |   
+|           |   \---topic
+|           |           2008_ICM_Problem_A.txt
+|           |           2008_ICM_Problem_B.txt
+|           |           2008_ICM_Problem_C.pdf
+|           |           
+|           +---2009
+|           |   |   readme.txt
+|           |   |   
+|           |   \---topic
+|           |           2009_ICM_C.pdf
+|           |           2009_MCM_A.txt
+|           |           2009_MCM_B.txt
+|           |           
+|           +---2010
+|           |   |   readme.txt
+|           |   |   
+|           |   \---topic
+|           |           2010_ICM_C.pdf
+|           |           2010_MCM_A.txt
+|           |           2010_MCM_B.txt
+|           |           
+|           +---2011
+|           |   |   readme.txt
+|           |   |   
+|           |   \---topic
+|           |           2011_ICM_C.pdf
+|           |           2011_MCM_A.txt
+|           |           2011_MCM_B.txt
+|           |           
+|           +---2012
+|           |   |   readme.txt
+|           |   |   
+|           |   \---topic
+|           |       |   2012_MCM_A.txt
+|           |       |   2012_MCM_B.txt
+|           |       |   
+|           |       \---2012_ICM_C
+|           |               2012_ICM_Problem.pdf
+|           |               Messages.xls
+|           |               Names.xls
+|           |               Topics.xls
+|           |               
+|           +---2013
+|           |   |   readme.txt
+|           |   |   
+|           |   \---topic
+|           |           2013_ICM_Problem_C.pdf
+|           |           2013_MCM_Problem_A.txt
+|           |           2013_MCM_Problem_B.txt
+|           |           
+|           +---2014
+|           |   |   readme.txt
+|           |   |   
+|           |   \---topic
+|           |           2014_ICM_C.pdf
+|           |           2014_MCM_A.txt
+|           |           2014_MCM_B.txt
+|           |           
+|           +---2015
+|           |   |   readme.txt
+|           |   |   
+|           |   \---topic
+|           |           2015_ICM_Problem_C.pdf
+|           |           2015_ICM_Problem_D.pdf
+|           |           2015_MCM_Problem_A.txt
+|           |           2015_MCM_Problem_B.txt
+|           |           
+|           +---2016
+|           |   |   readme.txt
+|           |   |   
+|           |   \---topic
+|           |       |   2016_ICM_Problem_D.pdf
+|           |       |   2016_ICM_Problem_E.pdf
+|           |       |   2016_ICM_Problem_F.pdf
+|           |       |   2016_MCM_Problem_A.pdf
+|           |       |   2016_MCM_Problem_B.pdf
+|           |       |   
+|           |       \---C
+|           |               2016_MCM_Problem_C.pdf
+|           |               ProblemCDATA.zip
+|           |               
+|           +---2017
+|           |   |   readme.txt
+|           |   |   
+|           |   \---topic
+|           |       |   2017_ICM_Problem_E.pdf
+|           |       |   2017_ICM_Problem_F.pdf
+|           |       |   2017_MCM_Problem_A.pdf
+|           |       |   2017_MCM_Problem_B.pdf
+|           |       |   
+|           |       +---C
+|           |       |       2017_MCM_Problem_C.pdf
+|           |       |       2017_MCM_Problem_C_Data.xlsx
+|           |       |       
+|           |       \---D
+|           |               2017_ICM_Problem_D.pdf
+|           |               2017_ICM_Problem_D_Data.xlsx
+|           |               
+|           +---2018
+|           |   |   readme.txt
+|           |   |   
+|           |   \---topic
+|           |       \---2018_MCM-ICM_Problems
+|           |               2018_ICM_Problem_D.pdf
+|           |               2018_ICM_Problem_E.pdf
+|           |               2018_ICM_Problem_F.pdf
+|           |               2018_MCM_Problem_A.pdf
+|           |               2018_MCM_Problem_B.pdf
+|           |               2018_MCM_Problem_C.pdf
+|           |               ProblemCData.xlsx
+|           |               
+|           \---2019_MCM-ICM_Problems
+|               |   2019_ICM_Problem_D.pdf
+|               |   2019_ICM_Problem_E.pdf
+|               |   2019_ICM_Problem_F.pdf
+|               |   2019_MCMProblemC_DATA.zip
+|               |   2019_MCM_Problem_A.pdf
+|               |   2019_MCM_Problem_B.pdf
+|               |   2019_MCM_Problem_C.pdf
+|               |   
+|               \---2019_MCM-ICM_Problems
+|                       2019_ICM_Problem_D.pdf
+|                       2019_ICM_Problem_E.pdf
+|                       2019_ICM_Problem_F.pdf
+|                       2019_MCMProblemC_DATA.zip
+|                       2019_MCM_Problem_A.pdf
+|                       2019_MCM_Problem_B.pdf
+|                       2019_MCM_Problem_C.pdf
+|                       
+\---Vaction_test
+    +---test1
+    |   +---problem
+    |   |   \---B题
+    |   |           B题.doc
+    |   |           k-mean_red_average.docx
+    |   |           附件1-葡萄酒品尝评分表.xls
+    |   |           附件2-指标总表.xls
+    |   |           附件3-芳香物质.xls
+    |   |           
+    |   \---solver
+    |       +---demo
+    |       |   |   draw.ipynb
+    |       |   |   heatmap_base.html
+    |       |   |   render.html
+    |       |   |   
+    |       |   +---2
+    |       |   |   |   2.docx
+    |       |   |   |   k-means.ipynb
+    |       |   |   |   level_analysis.ipynb
+    |       |   |   |   
+    |       |   |   +---doc
+    |       |   |   |       k-means-red.csv
+    |       |   |   |       k-means-red.xlsx
+    |       |   |   |       k-mean_red.csv
+    |       |   |   |       k-mean_red_average.docx
+    |       |   |   |       k-mean_red_average_归一化_中心化.docx
+    |       |   |   |       k-mean_white.csv
+    |       |   |   |       k-mean_white_average.docx
+    |       |   |   |       lever_analysis_red_average.docx
+    |       |   |   |       
+    |       |   |   \---img
+    |       |   |           k_means.png
+    |       |   |           level_analysis.png
+    |       |   |           level_analysis_6.png
+    |       |   |           level_analysis_6_white.png
+    |       |   |           level_analysis_white.png
+    |       |   |           
+    |       |   +---4
+    |       |   |       PCA.ipynb
+    |       |   |       
+    |       |   +---data
+    |       |   |   +---1
+    |       |   |   |       新红酒评价.xlsx
+    |       |   |   |       白葡萄酒评价.xlsx
+    |       |   |   |       红酒评价数据.xlsx
+    |       |   |   |       试验红葡萄酒.csv
+    |       |   |   |       试验红葡萄酒.xlsx
+    |       |   |   |       
+    |       |   |   \---2
+    |       |   |           red_average.csv
+    |       |   |           red_average_归一化_中心化.xlsx
+    |       |   |           white_sum.csv
+    |       |   |           white_sum.xlsx
+    |       |   |           white_sum_2.csv
+    |       |   |           白葡萄酒评价.xlsx
+    |       |   |           红酒评价.xlsx
+    |       |   |           
+    |       |   \---doc
+    |       |       |   20220824.aux
+    |       |       |   20220824.bbl
+    |       |       |   20220824.blg
+    |       |       |   20220824.log
+    |       |       |   20220824.pdf
+    |       |       |   20220824.synctex.gz
+    |       |       |   20220824.tex
+    |       |       |   ref.bib
+    |       |       |   
+    |       |       \---img
+    |       |           |   abstrat.png
+    |       |           |   ANOVA.png
+    |       |           |   Anthocyanin_correlation_data.png
+    |       |           |   Coefficient_table.png
+    |       |           |   Color_correlation_data.png
+    |       |           |   Correlation_data_of_total flavonoids_in_wine.png
+    |       |           |   DPPH_semi_inhibitory_volume_correlation_data.png
+    |       |           |   Residuals_Statistics.png
+    |       |           |   
+    |       |           +---1
+    |       |           |       red_k_S.png
+    |       |           |       white_k_S.png
+    |       |           |       
+    |       |           +---2
+    |       |           |       Cluster_summary.png
+    |       |           |       
+    |       |           \---4
+    |       |                   3d_analysise.png
+    |       |                   heatmaps.png
+    |       |                   solid.png
+    |       |                   
+    |       \---latex
+    |           |   20220824.pdf
+    |           |   20220824.synctex.gz
+    |           |   20220824.tex
+    |           |   
+    |           \---img
+    |                   ANOVA.png
+    |                   DPPH半抑制体积相关性数据.png
+    |                   摘要表.png
+    |                   残差统计.png
+    |                   系数表.png
+    |                   色泽相关性数据.png
+    |                   花色苷相关性数据.png
+    |                   酒总黄酮相关性数据.png
+    |                   
+    +---test2
+    |   +---problem
+    |   |   \---C
+    |   |           C题.docx
+    |   |           附件1：123家有信贷记录企业的相关数据.xlsx
+    |   |           附件2：302家无信贷记录企业的相关数据.xlsx
+    |   |           附件3：银行贷款年利率与客户流失率关系的统计数据.xlsx
+    |   |           
+    |   +---reference
+    |   |   +---2020-CMCM-C-master
+    |   |   |       baseline.ipynb
+    |   |   |       README.md
+    |   |   |       第一、二问集成学习算法.ipynb
+    |   |   |       第一问信用评级的描述性统计.ipynb
+    |   |   |       第一问所有特征.csv
+    |   |   |       第一问风险违约率求解.ipynb
+    |   |   |       第一问：作废发票计算.ipynb
+    |   |   |       论文.pdf
+    |   |   |       
+    |   |   \---CUMCM2020-Probelms-C-main
+    |   |       \---CUMCM2020-Probelms-C-main
+    |   |           |   .gitattributes
+    |   |           |   C202023003057_何昱_刘文晨_张清宇.pdf
+    |   |           |   C202023003057_何昱_刘文晨_张清宇_支撑材料.zip
+    |   |           |   README.md
+    |   |           |   
+    |   |           +---分析
+    |   |           |   |   附件1行业分类.xlsx
+    |   |           |   |   附件2行业与规模分类.xlsx
+    |   |           |   |   附件3最优贷款年利率.xlsx
+    |   |           |   |   
+    |   |           |   +---问题1
+    |   |           |   |       P1InDataProcessing.m
+    |   |           |   |       P1OutDataProcessing.m
+    |   |           |   |       p1_indata.xlsx
+    |   |           |   |       p1_outdata.xlsx
+    |   |           |   |       问题1数据处理.xlsx
+    |   |           |   |       
+    |   |           |   +---问题2
+    |   |           |   |       P2InDataProcessing.m
+    |   |           |   |       P2OutDataProcessing.m
+    |   |           |   |       p2_indata.xlsx
+    |   |           |   |       p2_outdata.xlsx
+    |   |           |   |       proble2result.xlsx
+    |   |           |   |       问题2数据处理.xlsx
+    |   |           |   |       
+    |   |           |   \---问题3
+    |   |           |           P3Result.xlsx
+    |   |           |           SerialNum.xlsx
+    |   |           |           statistics.m
+    |   |           |           statisticsdata.xlsx
+    |   |           |           修正前后对比折线图.xlsx
+    |   |           |           问题3刘文晨.docx
+    |   |           |           问题3系数确定.xlsx
+    |   |           |           
+    |   |           \---参考文献
+    |   |                   2020C-中小微企业的信贷决策.pdf2020C-中小微企业的信贷决策.pdf
+    |   |                   一种最小二乘意义下主客观评价一致的组合评价方法_毛定祥.pdf
+    |   |                   基于数据挖掘的信贷业务管理系统的设计与实现_舒象智.caj
+    |   |                   数据挖掘技术在财务风险分析中的应用_张苗.pdf
+    |   |                   网络借贷违约风险分析_基于数据挖掘_钟教聪.pdf
+    |   |                   面向信用评级的有决策树算法研究_裴生雷.pdf
+    |   |                   
+    |   \---solver
+    |       +---demo
+    |       |   |   1.ipynb
+    |       |   |   2.ipynb
+    |       |   |   2020前进项.csv
+    |       |   |   2020年1月和2月进项总额.csv
+    |       |   |   2020进项.csv
+    |       |   |   2020进项发票信息.xlsx
+    |       |   |   3.ipynb
+    |       |   |   pandas_epecial_deal.ipynb
+    |       |   |   上游持续交易企业数.csv
+    |       |   |   下游持续交易企业.csv
+    |       |   |   发展程度.csv
+    |       |   |   第一、二问特征提取.ipynb
+    |       |   |   第一、二问集成学习算法.ipynb
+    |       |   |   第一问信用评级的描述性统计.ipynb
+    |       |   |   第一问风险违约率求解.ipynb
+    |       |   |   第一问：作废发票计算.ipynb
+    |       |   |   第三问特征值.csv
+    |       |   |   第三问的数据处理.ipynb
+    |       |   |   附件2作废发票比例.csv
+    |       |   |   附件2：302家无信贷记录企业的相关数据.xlsx
+    |       |   |   
+    |       |   \---excel
+    |       |       |   C题.docx
+    |       |       |   附件1：123家有信贷记录企业的相关数据.xlsx
+    |       |       |   附件2：302家无信贷记录企业的相关数据.xlsx
+    |       |       |   附件3：银行贷款年利率与客户流失率关系的统计数据.xlsx
+    |       |       |   
+    |       |       +---extract
+    |       |       |   +---1
+    |       |       |   |       上游持续交易企业数.csv
+    |       |       |   |       下游持续交易企业.csv
+    |       |       |   |       发展程度.csv
+    |       |       |   |       第一问特征提取.csv
+    |       |       |   |       违约风险.csv
+    |       |       |   |       附件1作废发票比例.csv
+    |       |       |   |       
+    |       |       |   +---2
+    |       |       |   |       上游持续交易企业数.csv
+    |       |       |   |       下游持续交易企业.csv
+    |       |       |   |       企业规模.csv
+    |       |       |   |       作废发票比例.csv
+    |       |       |   |       发展程度.csv
+    |       |       |   |       第二问特征提取.csv
+    |       |       |   |       
+    |       |       |   \---3
+    |       |       |           2020年1月和2月进项总额.csv
+    |       |       |           第三问提取特征值.csv
+    |       |       |           第三问特征提取.csv
+    |       |       |           第二问最终分类结果.csv
+    |       |       |           附件1行业分类.xlsx
+    |       |       |           附件2行业与规模分类.xlsx
+    |       |       |           
+    |       |       \---result
+    |       |           +---1
+    |       |           |       各类信誉评级的违约风险的描述性统计分析.csv
+    |       |           |       平均违约风险最终结果.csv
+    |       |           |       
+    |       |           +---2
+    |       |           |       已经判断是否违约.csv
+    |       |           |       第二问最终分类结果.csv
+    |       |           |       
+    |       |           \---3
+    |       |                   1.png
+    |       |                   2.png
+    |       |                   第三问最终聚类结果.csv
+    |       |                   类别1描述.csv
+    |       |                   类别2描述.csv
+    |       |                   
+    |       \---latex
+    |           |   test2.pdf
+    |           |   test2.tex
+    |           |   test2plus.tex
+    |           |   test2pro.aux
+    |           |   test2pro.log
+    |           |   test2pro.pdf
+    |           |   test2pro.synctex.gz
+    |           |   test2pro.tex
+    |           |   
+    |           \---img
+    |                   Clustering.png
+    |                   
+    \---test3
+        +---problem
+        |   \---C题
+        |           CUMCM2021-C.pdf
+        |           附件1 近5年402家供应商的相关数据.xlsx
+        |           附件2 近5年8家转运商的相关数据.xlsx
+        |           附件A 订购方案数据结果.xlsx
+        |           附件B 转运方案数据结果.xlsx
+        |           
+        +---reference
+        |   +---2021CUMCM-C-main
+        |   |   |   239.pdf
+        |   |   |   CUMCM2021-C.pdf
+        |   |   |   data2 copy 2.ipynb
+        |   |   |   data2 copy 3.ipynb
+        |   |   |   data2 copy 4.ipynb
+        |   |   |   data2 copy.ipynb
+        |   |   |   data2.ipynb
+        |   |   |   data3.ipynb
+        |   |   |   data4.ipynb
+        |   |   |   data5 copy.ipynb
+        |   |   |   data5.ipynb
+        |   |   |   data6.ipynb
+        |   |   |   data_exploration.ipynb
+        |   |   |   decision_tree.ipynb
+        |   |   |   desktop.files.json
+        |   |   |   ord_agg_cat.jpg
+        |   |   |   pair.jpg
+        |   |   |   params_optimization.ipynb
+        |   |   |   supply_features
+        |   |   |   历史订货供货量.jpg
+        |   |   |   
+        |   |   +---codecol
+        |   |   |       data_exploration.py
+        |   |   |       p1.py
+        |   |   |       p2.py
+        |   |   |       p3.py
+        |   |   |       p4.py
+        |   |   |       
+        |   |   +---data
+        |   |   |       2_oder_plan.csv
+        |   |   |       2_plan_data.csv
+        |   |   |       3_oder_plan.csv
+        |   |   |       3_plan_data.csv
+        |   |   |       50 Need & Supply Barplot.jpg
+        |   |   |       a.csv
+        |   |   |       a1.csv
+        |   |   |       a3.csv
+        |   |   |       as.csv
+        |   |   |       A_0.csv
+        |   |   |       A_1.csv
+        |   |   |       A_1x.csv
+        |   |   |       A_2.csv
+        |   |   |       A_3.csv
+        |   |   |       b.csv
+        |   |   |       b1.csv
+        |   |   |       b3.csv
+        |   |   |       bs.csv
+        |   |   |       c.csv
+        |   |   |       c1.csv
+        |   |   |       c3.csv
+        |   |   |       cs.csv
+        |   |   |       data2.ipynb
+        |   |   |       data3.ipynb
+        |   |   |       for_matlab.csv
+        |   |   |       gap_ratio.csv
+        |   |   |       n_sup.csv
+        |   |   |       n_sup_decided.csv
+        |   |   |       opt_res1_df.csv
+        |   |   |       orders.csv
+        |   |   |       order_eqC.csv
+        |   |   |       pred.csv
+        |   |   |       pred_data.csv
+        |   |   |       recat_selected_pred.csv
+        |   |   |       supply14.csv
+        |   |   |       supply37.csv
+        |   |   |       supplyer.csv
+        |   |   |       supply_eqC.csv
+        |   |   |       supply_features.csv
+        |   |   |       test.csv
+        |   |   |       train.csv
+        |   |   |       trans.csv
+        |   |   |       TSA_decided.csv
+        |   |   |       TSA_decided0.csv
+        |   |   |       TSA_pred.csv
+        |   |   |       选定37家供应商后未来24周的库存与历史库存均值.jpg
+        |   |   |       附件1 近5年402家供应商的相关数据.xlsx
+        |   |   |       附件2 近5年8家转运商的相关数据.xlsx
+        |   |   |       附件A 订购方案数据结果.xlsx
+        |   |   |       附件B 转运方案数据结果.xlsx
+        |   |   |       
+        |   |   \---fig
+        |   |           50 Need & Supply Barplot.jpg
+        |   |           avg_annual_storage.jpg
+        |   |           desktop.files.json
+        |   |           fig.zip
+        |   |           Gap-Time Curve.jpg
+        |   |           History Orders Count.jpg
+        |   |           History Supply Count.jpg
+        |   |           Need & Supply Barplot(cumulative).jpg
+        |   |           Need & Supply Barplot.jpg
+        |   |           ord_agg_cat.jpg
+        |   |           output.jpg
+        |   |           pair.jpg
+        |   |           pair.png
+        |   |           storage_eqC.jpg
+        |   |           sup14.jpg
+        |   |           sup_agg_cat.jpg
+        |   |           主成分方差解释率.jpg
+        |   |           历史供求关系.jpg
+        |   |           历史周均订单量和供货量.jpg
+        |   |           历史累计供求关系.jpg
+        |   |           历史订货供货量.jpg
+        |   |           成本最低订货计划未来24周的库存与历史库存均值.jpg
+        |   |           新产能下的库存变化情况.jpg
+        |   |           选中的37家供应商历史供货量与生产需求关系.jpg
+        |   |           选中的37家供应商历史周期供货量与生产需求关系.jpg
+        |   |           选定37家供应商后未来24周的库存与历史库存均值.jpg
+        |   |           
+        |   \---CUMCM2021-C-main
+        |           README.md
+        |           第1问.py
+        |           第2问.py
+        |           第3问.py
+        |           第4问.py
+        |           附件1 近5年402家供应商的相关数据.xlsx
+        |           附件2 近5年8家转运商的相关数据.xlsx
+        |           
+        \---solver
+            +---demo
+            |       data_deal.ipynb
+            |       draw.ipynb
+            |       math.md
+            |       qustion1.ipynb
+            |       主成分.xlsx
+            |       供应商得分.xlsx
+            |       供需关系.jpg
+            |       前50.xlsx
+            |       市场份额.jpg
+            |       特征值数据.xlsx
+            |       稳定性曲线.jpg
+            |       第1问.py
+            |       第1问参数数值.xlsx
+            |       附件1 近5年402家供应商的相关数据.xlsx
+            |       附件2 近5年8家转运商的相关数据.xlsx
+            |       
+            +---example1
+            |       a.xlsx
+            |       b.xlsx
+            |       c.xlsx
+            |       d.xlsx
+            |       e.xlsx
+            |       f.xlsx
+            |       g.xlsx
+            |       第一问.py
+            |       第三问.py
+            |       第二问.py
+            |       第四问.py
+            |       
+            +---example2
+            |       第1问.py
+            |       第2问.py
+            |       第3问.py
+            |       第4问.py
+            |       
+            \---latex
+                |   main.pdf
+                |   main.synctex(busy)
+                |   main2.pdf
+                |   main2.synctex(busy)
+                |   main2.tex
+                |   
+                +---img
+                |       折线图 (1).png
+                |       
+                \---latex
+                    \---latex
+                        |   main.pdf
+                        |   main.synctex.gz
+                        |   main.tex
+                        |   main2.aux
+                        |   main2.log
+                        |   main2.pdf
+                        |   main2.synctex.gz
+                        |   main2.tex
+                        |   ref.bib
+                        |   
+                        +---example
+                        |   |   20220824.aux
+                        |   |   20220824.bbl
+                        |   |   20220824.blg
+                        |   |   20220824.log
+                        |   |   20220824.pdf
+                        |   |   20220824.synctex.gz
+                        |   |   20220824.tex
+                        |   |   ref.bib
+                        |   |   
+                        |   \---img
+                        |       |   abstrat.png
+                        |       |   ANOVA.png
+                        |       |   Anthocyanin_correlation_data.png
+                        |       |   Coefficient_table.png
+                        |       |   Color_correlation_data.png
+                        |       |   Correlation_data_of_total flavonoids_in_wine.png
+                        |       |   DPPH_semi_inhibitory_volume_correlation_data.png
+                        |       |   Residuals_Statistics.png
+                        |       |   
+                        |       +---1
+                        |       |       red_k_S.png
+                        |       |       white_k_S.png
+                        |       |       
+                        |       +---2
+                        |       |       Cluster_summary.png
+                        |       |       
+                        |       \---4
+                        |               3d_analysise.png
+                        |               heatmaps.png
+                        |               solid.png
+                        |               
+                        \---img
+                                fit.png
+                                regular.png
+                                rsr.png
+                                折线图 (1).png
+                                
